@@ -4,7 +4,7 @@ layout: post
 title: Welcome to Arras Energy
 subtitle: 'Getting Started: About Arras Energy'
 description: >-
-  Are you a developer or user?
+  - Are you a developer or user?
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
