@@ -32,7 +32,7 @@ adopted Arras Energy and hosts it within the Linux Foundation’s neutral, colla
 community to build the shared digital investments that are transforming the world's
 relationship to energy.
 
-### Background & Purpose
+### **Background & Purpose**
 California Investor-Owned Utilities are the owners and operators of distribution systems
 serving millions of residential, commercial, industrial, and agricultural customers. By 2016, IOU
 spending on distribution systems constituted between 32% and 40% of annual revenue.
@@ -66,7 +66,7 @@ to plan and operate the grid. The HiPAS GridLAB-D project has provided the devel
 necessary tool to bring the stakeholders together to support the adoption of mandates and
 regulations through modeling and simulation activities.
 
-### HiPAS GridLAB-D Upgrade
+### **HiPAS GridLAB-D Upgrade**
 GridLAB-D is a modern open-source agent-based power system simulation tool developed by
 US Department of Energy’s (DOE) Office of Electricity to study modern power systems with
 high renewables, energy storage and demand response at the distribution level. GridLAB-D has
@@ -95,7 +95,7 @@ integrated into an open-source production release of GridLAB-D that is freely av
 public.
 
 
-### Faster, Safer, & Reliable Results
+### **Faster, Safer, & Reliable Results**
 
 In 2021 National Grid evaluated HiPAS GridLAB-D as an alternative to the DOE version used
 for previous annual 15-year load forecast. The evaluation considered simulation speed,

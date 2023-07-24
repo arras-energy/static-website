@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/static-website/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/static-website/" rel="alternate" type="text/html" /><updated>2023-07-21T11:59:48-07:00</updated><id>http://localhost:4000/static-website/feed.xml</id><title type="html">Arras Energy</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Arras Energy!</title><link href="http://localhost:4000/static-website/jekyll/update/2023/07/20/About_Arras_Energy.html" rel="alternate" type="text/html" title="Welcome to Arras Energy!" /><published>2023-07-20T11:59:00-07:00</published><updated>2023-07-20T11:59:00-07:00</updated><id>http://localhost:4000/static-website/jekyll/update/2023/07/20/About_Arras_Energy</id><content type="html" xml:base="http://localhost:4000/static-website/jekyll/update/2023/07/20/About_Arras_Energy.html"><![CDATA[<h3 id="a-simulation-platform-for-californias-future-electricity-distribution-power-systems">A simulation platform for California’s future electricity distribution power systems.</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/static-website/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/static-website/" rel="alternate" type="text/html" /><updated>2023-07-24T10:11:00-07:00</updated><id>http://localhost:4000/static-website/feed.xml</id><title type="html">Arras Energy</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Arras Energy!</title><link href="http://localhost:4000/static-website/jekyll/update/2023/07/20/About_Arras_Energy.html" rel="alternate" type="text/html" title="Welcome to Arras Energy!" /><published>2023-07-20T11:59:00-07:00</published><updated>2023-07-20T11:59:00-07:00</updated><id>http://localhost:4000/static-website/jekyll/update/2023/07/20/About_Arras_Energy</id><content type="html" xml:base="http://localhost:4000/static-website/jekyll/update/2023/07/20/About_Arras_Energy.html"><![CDATA[<h3 id="a-simulation-platform-for-californias-future-electricity-distribution-power-systems">A simulation platform for California’s future electricity distribution power systems.</h3>
 
 <p>GridLAB-D is a research-grade power system simulator developed by the US Department of
 Energy and used to study future electricity distribution systems. HiPAS GridLAB-D, rebranded as Arras Energy, is a
@@ -27,7 +27,7 @@ adopted Arras Energy and hosts it within the Linux Foundation’s neutral, colla
 community to build the shared digital investments that are transforming the world’s
 relationship to energy.</p>
 
-<h3 id="background--purpose">Background &amp; Purpose</h3>
+<h3 id="background--purpose"><strong>Background &amp; Purpose</strong></h3>
 <p>California Investor-Owned Utilities are the owners and operators of distribution systems
 serving millions of residential, commercial, industrial, and agricultural customers. By 2016, IOU
 spending on distribution systems constituted between 32% and 40% of annual revenue.</p>
@@ -63,7 +63,7 @@ to plan and operate the grid. The HiPAS GridLAB-D project has provided the devel
 necessary tool to bring the stakeholders together to support the adoption of mandates and
 regulations through modeling and simulation activities.</p>
 
-<h3 id="hipas-gridlab-d-upgrade">HiPAS GridLAB-D Upgrade</h3>
+<h3 id="hipas-gridlab-d-upgrade"><strong>HiPAS GridLAB-D Upgrade</strong></h3>
 <p>GridLAB-D is a modern open-source agent-based power system simulation tool developed by
 US Department of Energy’s (DOE) Office of Electricity to study modern power systems with
 high renewables, energy storage and demand response at the distribution level. GridLAB-D has
@@ -93,7 +93,7 @@ simulations that explore a range of scenarios and options. These upgrades have b
 integrated into an open-source production release of GridLAB-D that is freely available to the
 public.</p>
 
-<h3 id="faster-safer--reliable-results">Faster, Safer, &amp; Reliable Results</h3>
+<h3 id="faster-safer--reliable-results"><strong>Faster, Safer, &amp; Reliable Results</strong></h3>
 
 <p>In 2021 National Grid evaluated HiPAS GridLAB-D as an alternative to the DOE version used
 for previous annual 15-year load forecast. The evaluation considered simulation speed,
@@ -142,16 +142,7 @@ California Energy Commission. Publication Number: CEC-500-202X-XXX.</p>]]></cont
   <li>Utilities</li>
   <li>manufacturers</li>
   <li>Goverment</li>
-</ol>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Users: Students researchers users]]></summary></entry><entry><title type="html">Use Cases</title><link href="http://localhost:4000/static-website/jekyll/update/2023/07/20/Use_Cases.html" rel="alternate" type="text/html" title="Use Cases" /><published>2023-07-20T11:59:00-07:00</published><updated>2023-07-20T11:59:00-07:00</updated><id>http://localhost:4000/static-website/jekyll/update/2023/07/20/Use_Cases</id><content type="html" xml:base="http://localhost:4000/static-website/jekyll/update/2023/07/20/Use_Cases.html"><![CDATA[<h1 id="great-examples-of-arras-energy-used-as-a-simulation-tool">Great Examples of Arras Energy used as a simulation tool</h1>
-
-<h2 id="featuring">Featuring</h2>
-<ol>
-  <li>TESS</li>
-  <li>GRIP</li>
-  <li>GLOW</li>
-</ol>
-
-<p>Arras Energy was developed with four main analysis use-cases in mind, hosting capacity,
+</ol>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Users: Students researchers users]]></summary></entry><entry><title type="html">Use Cases</title><link href="http://localhost:4000/static-website/jekyll/update/2023/07/20/Use_Cases.html" rel="alternate" type="text/html" title="Use Cases" /><published>2023-07-20T11:59:00-07:00</published><updated>2023-07-20T11:59:00-07:00</updated><id>http://localhost:4000/static-website/jekyll/update/2023/07/20/Use_Cases</id><content type="html" xml:base="http://localhost:4000/static-website/jekyll/update/2023/07/20/Use_Cases.html"><![CDATA[<p>Arras Energy was developed with four main analysis use-cases in mind, hosting capacity,
 tariff design, electrification, and resilience. These use-cases were identified by the Technical
 Advisory Committee. In addition, these use-cases provided the basis for additional
 requirements, which themselves can be considered more general use-cases for HiPAS GridLABD, giving rise to the following important new features:</p>
@@ -182,7 +173,9 @@ Linux Foundation Energy (LF Energy) under the brand name “Arras Energy”.</p>
 and demand response that can deployed at any location in a distribution network without
 violating distribution system voltage, current, or control limits. This process was also referred
 to as integration capacity analysis (ICA), particularly when focused only on solar resource
-integration. ICA is achieved using a system-wide iterative power flow solution that examines
+integration.</p>
+
+<p>ICA is achieved using a system-wide iterative power flow solution that examines
 all the combinations of loading at every customer meter in a distribution system. Distributed
 generation and DER resources are varied at customer meter, independently, to verify whether
 a system violation occurs somewhere within a feeder.</p>
@@ -246,7 +239,88 @@ GridLAB-D allows users to model the conditions when system faults occur and dete
 recovery tactics using algorithms developed by Packetized Energy. Using this feature, a power
 system failure is simulated because of an extreme event, such as high wind, which breaks the
 network into isolated islands. The networks are assumed to be equipped with solar and battery
-technology to support the generation requirements within a virtual network island as seen in</p>
+technology to support the generation requirements within a virtual network island as seen in Figure 1, below.</p>
+
+<p>The topology employs large switching devices under specific control strategies 
+that disconnects portions of the grid based on the location of the fault or system vulnerability. \Figure 1.</p>
+
+<p><strong>Figure 1. Virtual islanding capability for GRIP’s absorption algorithm developed by Packetized Energy.</strong></p>
+
+<h3 id="electrification"><strong>Electrification</strong></h3>
+<p>Electrification analysis examines the impact of converting customer end-uses provided by 
+natural gas, heating oil, or other fossil-energy sources to electricity. In residential buildings, 
+the end-uses that may be converted include heating, cooking, water-heating, and clothes 
+drying. The simulation delivers feeder-level load shapes as the fraction of converted end-uses 
+is increased. In addition, the residential building model identifies when the capacity of the 
+distribution panel in the home is exceeded, and a panel upgrade is required.</p>
+
+<h3 id="tariff-analysis"><strong>Tariff Analysis</strong></h3>
+<p>The tariff analysis use-case is designed to include a few tariff structures that IOUs, POUs and 
+CCAs implement to give HiPAS GridLAB-D users the ability to explore a variety of tariff designs 
+for their distribution networks and customer compositions. Tariff models are obtained from the 
+National Renewable Energy Laboratory (NREL) OpenEI database of tariffs. These include 
+recent tariff data for the following utilities.</p>
+<ul>
+  <li><strong>Investor-Owned Utilities</strong>
+    <ul>
+      <li>Bear Valley Electric Service</li>
+      <li>Pacific Gas and Electric</li>
+      <li>PacifiCorp</li>
+      <li>San Diego Gas and Electric</li>
+      <li>Southern California Edison (SCE)</li>
+    </ul>
+  </li>
+  <li><strong>Publicly Owned LSEs Including Publicly Owned Utilities (POUs)</strong>
+    <ul>
+      <li>Alameda Municipal Power</li>
+      <li>City of Anaheim</li>
+      <li>Azusa Light and Water</li>
+      <li>City of Banning</li>
+      <li>Biggs Municipal Utilities</li>
+      <li>Burbank Water and Power</li>
+      <li>CCSF (also called the Power Enterprise of the San Francisco Public Utilities Commission)</li>
+      <li>City of Cerritos, Cerritos Electric Utility</li>
+      <li>City of Industry</li>
+      <li>Colton Public Utilities</li>
+      <li>City of Corona</li>
+      <li>Eastside Power Authority</li>
+      <li>Glendale Water and Power</li>
+      <li>Gridley Electric Utility</li>
+      <li>City of Healdsburg</li>
+      <li>Imperial Irrigation District (IID)</li>
+      <li>Kirkwood Meadows Public Utility District</li>
+      <li>Lassen Municipal Utility District</li>
+      <li>Lathrop Irrigation District</li>
+      <li>Lodi Electric Utility</li>
+      <li>City of Lompoc</li>
+      <li>Los Angeles Department of Water &amp; Power (LADWP)</li>
+      <li>Merced Irrigation District (MeID)</li>
+      <li>Modesto Irrigation District (MID)</li>
+      <li>Moreno Valley Utility (MVU)</li>
+      <li>City of Needles (Public Utility Authority)</li>
+      <li>City of Palo Alto</li>
+      <li>Pasadena Water and Power</li>
+      <li>City of Pittsburg, Pittsburg Power Company Island Energy</li>
+      <li>Port of Oakland</li>
+      <li>Port of Stockton</li>
+      <li>Power and Water Resources Pooling Authority (PWRPA)</li>
+      <li>Rancho Cucamonga Municipal Utility</li>
+      <li>Redding Electric Utility</li>
+      <li>City of Riverside</li>
+      <li>Roseville Electric</li>
+      <li>Sacramento Municipal Utility District (SMUD)</li>
+      <li>City of Shasta Lake</li>
+      <li>Shelter Cove Resort Improvement District</li>
+      <li>Silicon Valley Power (SVP)</li>
+      <li>Trinity Public Utilities District (PUD)</li>
+      <li>Truckee Donner Public Utilities District</li>
+      <li>Turlock Irrigation District (TID)</li>
+      <li>City of Ukiah</li>
+      <li>City of Vernon</li>
+      <li>Victorville Municipal Utilities Services</li>
+    </ul>
+  </li>
+</ul>
 
 <h1 id="additional-use-cases">Additional Use Cases</h1>
 <ul>
@@ -258,7 +332,7 @@ technology to support the generation requirements within a virtual network islan
 
 <p>These prove how efficent and easily applicable the new HiPAS GRIDLAB-D is</p>
 
-<p>Check out the <a href="https://google.com">Google</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Great Examples of Arras Energy used as a simulation tool]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/static-website/jekyll/update/2023/07/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-07-20T11:59:00-07:00</published><updated>2023-07-20T11:59:00-07:00</updated><id>http://localhost:4000/static-website/jekyll/update/2023/07/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/static-website/jekyll/update/2023/07/20/welcome-to-jekyll.html"><![CDATA[<h1 id="is-this-working">Is this working?????</h1>
+<p>Check out the <a href="https://google.com">Google</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Arras Energy was developed with four main analysis use-cases in mind, hosting capacity, tariff design, electrification, and resilience. These use-cases were identified by the Technical Advisory Committee. In addition, these use-cases provided the basis for additional requirements, which themselves can be considered more general use-cases for HiPAS GridLABD, giving rise to the following important new features:]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/static-website/jekyll/update/2023/07/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-07-20T11:59:00-07:00</published><updated>2023-07-20T11:59:00-07:00</updated><id>http://localhost:4000/static-website/jekyll/update/2023/07/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/static-website/jekyll/update/2023/07/20/welcome-to-jekyll.html"><![CDATA[<h1 id="is-this-working">Is this working?????</h1>
 
 <p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
