@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Welcome to Arras Energy!'
+description: "A simulation platform for California’s future electricity distribution power systems."
 
 short_url: 'jekyllt.github.io/jasper/'
 google_analytics: UA-69281367-1
