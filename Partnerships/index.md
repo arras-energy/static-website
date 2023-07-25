@@ -2,7 +2,7 @@
 layout: page
 title: Partnerships
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 current: about
 ---
 

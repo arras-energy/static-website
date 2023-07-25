@@ -1,12 +1,12 @@
 ---
-layout: post
-cover: 'assets/images/cover3.jpg'
+layout: page
+cover: 'assets/images/golden.jpg'
 navigation: True
 title:  "Getting Started"
 date:   2023-07-20 11:59:00 -0700
 tags: test content
 subclass: 'post tag-test tag-content'
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 author: casper
 categories: jekyll update
 ---

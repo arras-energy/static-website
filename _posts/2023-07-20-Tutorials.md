@@ -1,7 +1,12 @@
 ---
 layout: post
-title:  "Resources"
+navigation: True
+title:  "Tutorials"
 date:   2023-07-20 11:59:00 -0700
+tags: test content
+subclass: 'post tag-test tag-content'
+logo: 'assets/images/logo.png'
+author: casper
 categories: jekyll update
 ---
 
