@@ -28,17 +28,12 @@ To achieve our goals of making Arras Energy an open resource to all students, re
 **Discover the benefits at [California Natural Resources Agency][California Natural Resources Agency].**
 
 # Ultility Companies
-
-Top Partners: 
 1. Pacific Gas & Electric Co.
 2. San Diego Gas & Electric
 3. Southern California Edison Company
 
-Quotes, and reviews
-Government funding
-
 [Google]: https://google.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 [slac]: https://www6.slac.stanford.edu/
