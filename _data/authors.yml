@@ -1,40 +1,40 @@
-casper:
-  username: casper
-  name: Casper McFadden
-  location: Maine, USA
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, Casper.
+david:
+  username: david
+  name: David P. Chassin
+  location: California, USA
+  url_full: https://profiles.stanford.edu/david-chassin
+  url: profiles.stanford.edu/david-chassin
+  bio: Staff Scientist at SLAC National Accelerator Laboratory. GISMo Group Manager
   assets: assets/images/casper.png
-lewis:
-  username: lewis
-  name: Lewis Carroll
-  location: Cheshire, England
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
+alyona:
+  username: alyona
+  name: Alyona I. Teyber
+  location: California, USA
+  url_full: https://profiles.stanford.edu/alyona-ivanova 
+  url: profiles.stanford.edu/alyona-ivanova
+  bio: Staff Engineer at SLAC National Accelerator Laboratory. Project lead on Grid Resilence & Intellegence Platform
   assets: assets/images/lewis.jpeg
-abraham:
-  username: abraham
-  name: Abraham Lincoln
-  location: Kentucky, USA
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: I was the 16th president of the USA until I was assassinated in April of 1963. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
+elizabeth:
+  username: Elizabeth
+  name: Elizabeth Buechler
+  location: California, USA
+  url_full: https://profiles.stanford.edu/elizabeth-buechler
+  url: profiles.stanford.edu/elizabeth-buechler
+  bio: Stanford PhD candidate in mechanical engineering. Research focus on demand-side flexibility, residential electrification, and DER integration.
   assets: assets/images/abraham.jpg
-edgar:
-  username: edgar
-  name: Edgar Rice Burroughs
-  location: Chicago, Illinois
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
+duncan:
+  username: duncan
+  name: Duncan Ragsdale
+  location: California, USA
+  url_full: https://profiles.stanford.edu/duncan-ragsdale 
+  url: profiles.stanford.edu/duncan-ragsdale
+  bio: Software engineer at SLAC National Accelerator Laboratory, GISMo Staff Engineer
   assets: assets/images/edgar.gif
-martin:
-  username: martin
-  name: Martin Luther King
-  location: Memphis, Tennessee
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
+kimberly:
+  username: kimberly
+  name: Kimberly Hickok
+  location: California, USA
+  url_full: https://profiles.stanford.edu/kimberly-hickok 
+  url: profiles.stanford.edu/kimberly-hickok
+  bio: Univeristy Staff at Stanford Linear Accelerator Center (SLAC)
   assets: assets/images/martin.jpg
