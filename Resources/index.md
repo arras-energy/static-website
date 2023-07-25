@@ -9,6 +9,8 @@ current: about
 
 # Liturature and Reports
 
+![2miles]({{ site.baseurl }}assets/images/2miles.jpg)
+
 GridLAB-D is a research-grade power system simulator developed by the US Department of
 Energy and used to study future electricity distribution systems. HiPAS GridLAB-D, rebranded as Arras Energy, is a
 commercial-grade high-performance version of this software developed for four California usecases: load electrification, distributed resource integration hosting capacity, tariff design, and

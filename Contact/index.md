@@ -6,13 +6,10 @@ logo: 'assets/images/logo.png'
 current: about
 ---
 
-SLAC Laboratory, Stanford, U.S. Department of Energy
-Utility companies - Pacific Gas & Electric Co., San Diego Gas & Electric, Southern California Edison Company
-Quotes, and reviews
-Government funding
+We would love to help you recieve futher information and web-forms
 
 
-# A simulation platform for California's future electricity distribution power systems.
+# We would love 
 
 GridLAB-D is a research-grade power system simulator developed by the US Department of
 Energy and used to study future electricity distribution systems. HiPAS GridLAB-D, rebranded as Arras Energy, is a
