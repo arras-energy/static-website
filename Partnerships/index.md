@@ -1,5 +1,6 @@
 ---
 layout: page
+cover: 'assets/images/green.jpg'
 title: Partnerships
 navigation: true
 logo: 'assets/images/logo.png'
