@@ -8,7 +8,7 @@ logo: 'assets/images/logo.png'
 current: about
 ---
 
-# Liturature and Reports
+# Getting Started - Are You A User or Developer?
 
 All content in this page:
 1. Tutorials

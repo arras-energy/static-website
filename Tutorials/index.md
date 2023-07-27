@@ -2,13 +2,13 @@
 layout: page
 cover: 'assets/images/xl.jpg'
 navigation: True
-title:  "Resources"
+title:  "Tutorials"
 date:   2023-07-20 11:59:00 -0700
 logo: 'assets/images/logo.png'
 current: about
 ---
 
-# Tutorials & Learning
+# Implenation & Learning
 
 All content in this page:
 1. Tutorials

@@ -2,7 +2,7 @@
 layout: page
 cover: 'assets/images/talking.jpg'
 navigation: True
-title:  "Resources"
+title:  "Use Cases"
 date:   2023-07-20 11:59:00 -0700
 logo: 'assets/images/logo.png'
 current: about
