@@ -1,6 +1,6 @@
 ---
 layout: page
-cover: 'assets/images/camera.jpg'
+cover: 'assets/images/sun.jpg'
 title: Contact
 navigation: true
 logo: 'assets/images/logo.png'
