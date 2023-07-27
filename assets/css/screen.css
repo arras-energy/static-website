@@ -543,7 +543,6 @@ button {
 .inner {
     position: relative;
     width: 80%;
-    max-width: 710px;
     margin: 0 auto;
 }
 
@@ -994,8 +993,8 @@ body.nav-opened .nav {
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     position: relative;
-    width: 80%;
-    max-width: 710px;
+    width: 40%;
+    
     margin: 4rem auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
@@ -1577,7 +1576,6 @@ body.page-template .post-title {
 .pagination {
     position: relative;
     width: 80%;
-    max-width: 710px;
     margin: 4rem auto;
     font-family: "Open Sans", sans-serif;
     font-size: 1.3rem;

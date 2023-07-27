@@ -6,7 +6,12 @@
     <ul>
         <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>
         <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">About</a></li>
-        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}Resources">Resources</a></li>
+        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation">
+            <a href="{{ site.baseurl }}Resources">Resources</a>
+            <ul style="padding:0%;padding-left: 1rem;">
+                <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"> <a href="https://google.com">googlr</a></li>
+            </ul>
+        </li>
         <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}Partnerships">Partnerships</a></li>
         <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}Contact">Contact</a></li>
     </ul>
