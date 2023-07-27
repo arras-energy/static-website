@@ -1,5 +1,6 @@
 ---
 layout: page
+cover: 'assets/images/sunrise.jpg'
 title: About Arras Energy
 navigation: true
 logo: 'assets/images/logo.png'
@@ -8,8 +9,6 @@ current: about
 
 
 # A simulation platform for California's future electricity distribution power systems.
-
-![sunrise]({{ site.baseurl }}assets/images/sunrise.jpg)
 
 GridLAB-D is a research-grade power system simulator developed by the US Department of
 Energy and used to study future electricity distribution systems. HiPAS GridLAB-D, rebranded as Arras Energy, is a
@@ -40,6 +39,8 @@ relationship to energy.
 California Investor-Owned Utilities are the owners and operators of distribution systems
 serving millions of residential, commercial, industrial, and agricultural customers. By 2016, IOU
 spending on distribution systems constituted between 32% and 40% of annual revenue.
+
+![camera]({{ site.baseurl }}assets/images/camera.jpg)
 
 Looking ahead, grid modernization efforts which enhance the sensing and automation
 capabilities of the distribution system through use of smart grid technologies are projected to

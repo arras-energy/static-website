@@ -1,5 +1,6 @@
 ---
 layout: page
+cover: 'assets/images/2miles.jpg'
 navigation: True
 title:  "Resources"
 date:   2023-07-20 11:59:00 -0700
@@ -8,8 +9,6 @@ current: about
 ---
 
 # Liturature and Reports
-
-![2miles]({{ site.baseurl }}assets/images/2miles.jpg)
 
 All content in this page:
 1. Tutorials
