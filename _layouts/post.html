@@ -1,165 +1,139 @@
-<!DOCTYPE html>
-<html lang="{{ site.language }}" class="no-js">
-    {% include head.html %}
-    <body class="has-push-menu">
-        {% include minutes-to-read.html %}
-        {% include svg-icons.html %}
-        {% include header.html %}
+---
+layout: default
+disqus: false
+class: 'post-template'
+---
+<!-- default -->
 
-        <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
-            <article role="article" class="post-content">
-                <p class="post-info">
-                    {% if page.date %}
-                        <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
-                        <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
-                            {% include date.html date=page.date %}
-                        </time>
-                    {% endif %}
-                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
-                    <span>{{ minutesText }}</span>
-                </p>
-                <h1 class="post-title">{{ page.title }}</h1>
-                <p class="post-subtitle">{{ page.subtitle }}</p>
+<!-- The comment above "< default" means - insert everything in this file into -->
+    <!-- the [body] of the default.hbs template, which contains our header/footer. -->
 
-                {% if page.image and paginator.activated == nil %}
-                    <img src="{{ page.image }}" alt="Featured image" class="post-cover">
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
+<header class="main-header post-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
+    <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
+        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+        {% if page.navigation %}
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        {% endif %}
+    </nav>
+</header>
+
+<main class="content" role="main">
+
+    <article class="{{ page.subclass }}">
+
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <section class="post-meta">
+            <!-- <a href='{{ site.baseurl }}{{ page.about }}'>{{ site.author }}</a> -->
+
+            {% for author in site.data.authors %}
+                {% if author[1].username == page.author %}
+                    <a href='{{ site.baseurl }}author/{{ page.author }}'>{{ author[1].name }}</a>
                 {% endif %}
+            {% endfor %}
+            <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
+                <!-- [[tags prefix=" on "]] -->
+                {% if page.tags.size > 0 %}
+                on
+                {% for tag in page.tags %}
+                    {% if forloop.index == page.tags.size %}
+                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
+                    {% else %}
+                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
+                    {% endif %}
+                {% endfor %}
+                {% endif %}
+            </section>
+        </header>
 
-                {% include pagination-post.html progressBar=true %}
+        <section class="post-content">
 
-                {% include toc.html %}
-
-                {{ content }}
-
-                {% include pagination-post.html %}
-            </article>
-
-            {% if site.two_columns_layout %}
-                <aside class="see-also">
-                    <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
-                    <ul>
-                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
-                        {% assign shuffled_array = next_posts | shuffle %}
-                        {% for post in shuffled_array limit:3 %}
-                            <li>
-                                <a href="{{ post.url | prepend: site.baseurl }}">
-                                    {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
-                                    {% elsif post.image %}
-                                        <img src="{{ post.image }}">
-                                    {% else %}
-                                        <img src="/assets/img/off.jpg">
-                                    {% endif %}
-                                    <h3>{{ post.title }}</h3>
-                                </a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </aside>
-            {% endif %}
+            {{ content }}
 
         </section>
 
-        <!-- Add time bar only for pages without pagination -->
-        {% if paginator.activated == nil and site.show_time_bar == true %}
-            {% include time-bar.html %}
-            {% include recommendation.html %}
-        {% endif %}
+        <footer class="post-footer">
 
-        <!-- Show modal if the post is the last one -->
-        {% if paginator.is_last and site.show_modal_on_finish_post %}
-            {% include modal.html title="You made it!" subtitle="Why don't you try another?" %}
-        {% endif %}
+            <!-- Everything inside the #author tags pulls data from the author -->
+            <!-- #author-->
+            {% for author in site.data.authors %}
+                {% if author[1].username == page.author %}
+                    {% if author[1].assets %}
+                        <figure class="author-image">
+                            <a class="img" href="{{ site.baseurl }}author/{{ page.author }}" style="background-image: url({{ site.baseurl }}{{ author[1].assets }})"><span class="hidden">{{ page.author }}'s Picture</span></a>
+                        </figure>
+                    {% endif %}
 
-        <!-- Show modal before user leaves the page -->
-        {% if site.show_modal_on_exit %}
-            {% include modal.html title="Don't go yet!" subtitle="You may also like..." closed=true showOnExit=true %}
-        {% endif %}
+                    <section class="author">
+                        <h4><a href="{{ site.baseurl }}author/{{ page.author }}">{{ author[1].name }}</a></h4>
 
-        {% include subscription.html %}
-        {% include share.html %}
-        {% include author.html %}
-        {% include comments.html %}
-        {% include footer.html %}
+                        {% if author[1].bio %}
+                            <p> {{ author[1].bio }}</p>
+                        {% else %}
+                            <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this author.</p>
+                        {% endif %}
+                        <div class="author-meta">
+                            {% if author[1].location %}<span class="author-location icon-location"> {{ author[1].location }}</span>{% endif %}
+                            {% if author[1].url %}<span class="author-link icon-link"><a href="{{ author[1].url_full }}"> {{ author[1].url }}</a></span>{% endif %}
+                        </div>
+                    </section>
 
-        {% assign author = site.authors | where: "name", post.author | first %}
+                    <!-- /author  -->
 
-        {% assign author_urls = '' %}
-        {% if author.github_username %}
-            {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
-        {% endif %}
-        {% if author.facebook_username %}
-            {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: author.facebook_username | append: '",' %}
-        {% endif %}
-        {% if author.twitter_username %}
-            {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: author.twitter_username | append: '",' %}
-        {% endif %}
-        {% if author.medium_username %}
-            {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
-        {% endif %}
-        {% if author.instagram_username %}
-            {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
-        {% endif %}
-        {% if author.linkedin_username %}
-            {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
-        {% endif %}
-        {% if page.math %}
-        <script>
-            MathJax = {
-                tex: {
-                inlineMath: [['$', '$'], ['\\(', '\\)']]
-                }
-            };
-        </script>
-        <script type="text/javascript" id="MathJax-script" async
-            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-        </script>
-        {% endif %}
-        <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "BlogPosting",
-            "name": "{{ page.title }}",
-            "headline": "{{ page.subtitle }}",
-            "description": "{{ page.description }}",
-            "image": "{{ page.image }}",
-            "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-            "articleBody": "{{ content | strip_html | xml_escape | textilize }}",
-            "wordcount": "{{ content | number_of_words }}",
-            "inLanguage": "{{ site.language }}",
-            "dateCreated": "{{ page.date | date: '%Y-%m-%d/' }}",
-            "datePublished": "{{ page.date | date: '%Y-%m-%d/' }}",
-            "dateModified": "{{ page.date | date: '%Y-%m-%d/' }}",
-            "author": {
-                "@type": "Person",
-                "name": "{{ author.display_name }}",
-                {% if author.photo %}
-                "image": "{{ author.photo }}",
-                {% else %}
-                "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
+                    <section class="share">
+                        <h4>Share this post</h4>
+                        <a class="icon-twitter" href="http://twitter.com/share?text={{ page.title }}&amp;url={{ site.url }}{{ page.url | remove: '/' }}"
+                            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                            <span class="hidden">Twitter</span>
+                        </a>
+                        <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url | remove: '/' }}"
+                            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                            <span class="hidden">Facebook</span>
+                        </a>
+                        <a class="icon-google-plus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url | remove: '/' }}"
+                           onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                            <span class="hidden">Google+</span>
+                        </a>
+                    </section>
                 {% endif %}
-                "jobTitle": "{{ author.position }}",
-                "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}",
-                "sameAs": [
-                    {{ author_urls | split: "," | join: "," }}
-                ]
-            },
-            "publisher": {
-                "@type": "Organization",
-                "name": "{{ site.name }}",
-                "url": "{{ site.url }}{{site.baseurl}}/",
-                "logo": {
-                    "@type": "ImageObject",
-                    "url": "{{ site.url }}{{site.baseurl}}/assets/img/blog-image.png",
-                    "width": "600",
-                    "height": "315"
-                }
-            },
-            "mainEntityOfPage": "True",
-            "genre": "{{ page.category }}",
-            "articleSection": "{{ page.category }}",
-            "keywords": [{{ page.tags | join: '","' | append: '"' | prepend: '"' }}]
-        }
-        </script>
-    </body>
-</html>
+            {% endfor %}
+
+            <!-- Add Disqus Comments -->
+            {% if page.disqus %}
+                {% include disqus.html %}
+            {% endif %}
+
+        </footer>
+
+    </article>
+
+</main>
+
+<aside class="read-next">
+
+    <!-- [[! next_post ]] -->{{ post.url | remove: '/' }}
+    {% if page.next %}
+        <a class="read-next-story {% if page.next.cover %}" style="background-image: url({{ site.baseurl }}{{ page.next.cover }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.next.url | remove: '/' }}">
+            <section class="post">
+                <h2>{{ page.next.title }}</h2>
+                <p>{{ page.next.content | strip_html | truncatewords:15 }}</p>
+            </section>
+        </a>
+    {% endif %}
+    <!-- [[! /next_post ]] -->
+    <!-- [[! prev_post ]] -->
+    {% if page.previous %}
+        <a class="read-next-story prev {% if page.previous.cover %}" style="background-image: url({{ site.baseurl }}{{ page.previous.cover }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.previous.url | remove: '/' }}">
+            <section class="post">
+                <h2>{{ page.previous.title }}</h2>
+                <p>{{ page.previous.content | strip_html | truncatewords:15 }}</p>
+            </section>
+        </a>
+    {% endif %}
+    <!-- [[! /prev_post ]] -->
+</aside>
+
+<!-- /post -->

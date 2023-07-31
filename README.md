@@ -1,224 +1,125 @@
-# Jekflix Template
+## Jasper
 
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+[![Build Status](https://github.com/jekyllt/jasper/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/jasper/actions/workflows/jekyll_build.yml)
+[![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper)
+[![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper)
 
-See the [demo here](https://jekflix.rossener.com/).
+This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) [v1.3.7](https://github.com/TryGhost/Casper/releases/tag/1.3.7) for Jekyll inspired by [Kasper](https://github.com/rosario/kasper).
 
-## What is it?
+You might well ask at this point why bother making a new Casper's clone?
+Although this is inspired by Kasper, there are several **additional** features which make this port closer
+to the original theme.
 
-A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
+**New:** Check out **[Jasper2](https://github.com/jekyllt/jasper2)**, a new port of Casper version 2!
 
-![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
+## Live demo
 
-## Features
+[Jasper Live Demo](https://jekyllt.github.io/jasper)
 
-- [Live Search](docs/features.md#live-search)
-- [Estimated Reading Time](docs/features.md#estimated-reading-time)
-- [Reading Progress Bar](docs/features.md#reading-progress-bar) *(optional)*
-- ["New Post" tag](docs/features.md#new-post-tag)
-- [Load images on demand](docs/features.md#load-images-on-demand)
-- [Push Menu](docs/features.md#push-menu)
-- [SVG icons](docs/features.md#svg-icons)
-- [Shell script to create posts](docs/features.md#shell-script-to-create-posts)
-- [Tags page](docs/features.md#tags-page)
-- [About page](docs/features.md#about-page)
-- [Contact page](docs/features.md#contact-page)
-- [404 error page](docs/features.md#404-error-page)
-- [Feed RSS](docs/features.md#feed-rss)
-- [Disqus](docs/features.md#disqus) *(optional)*
-- [Featured post](docs/features.md#featured-post) *(optional)*
-- [Home page pagination](docs/features.md#home-page-pagination) *(optional)*
-- [Posts sidebar](docs/features.md#posts-sidebar) *(optional)*
-- [Paginated posts](docs/features.md#paginated-posts) *(optional)*
-- ["Before you go" modal](docs/features.md#before-you-go-modal) *(optional)*
-- [Post recommendation](docs/features.md#post-recommendation)
-- [Netlify CMS ready](docs/features.md#netlify-cms-ready)
-- [Translations](docs/setup.md#translations) **new!**
-- [Math Expressions](docs/features.md#math-expressions) *(optional)* **new!**
+[Casper's Original Here](https://demo.ghost.io)
 
-## SEO
 
-- Google Analytics
-- Meta tags
-- JSON-LD
-- Sitemap.xml
-- Social Media ready
+## Screenshots
 
-## Quick Install
+**Home page**
+![home page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen1.png)
 
-In the case you're installing to existing Jekyll project, add this line to your project's `Gemfile`:
+**Post page**
+![post page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen2.png)
 
-```
-gem "jekflix"
-```
+**Author page**
+![author page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen3.png)
 
-Add this line to your project's `_config.yml`:
+**Related posts page**
+![tag page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen4.png)
 
-```
-theme: jekflix
-```
+**Tags page with opened sidebar**
+![sidebar page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen5.png)
 
-And then run:
+**404 page**
+![related page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen6.png)
 
-```
-$ bundle
-```
+## Jasper theme includes
 
-Or install it yourself as:
+* Pagination
+* Google Analytics tracking
+* Author's profile with picture
+* Disqus comments (not Ghost standard)
+* Author page (New 07.02.2015)
+* Tag page(s) (New 07.02.2015)
+* 404 page (New 07.02.2015)
+* Toggleable sliding sidebar (New 07.02.2015)
+* Related posts view (New 30.10.2015)
+* Tag description(s) (New 30.10.2015)
+* Code Syntax Highlight (New 24.11.2015)
+* Code Syntax Highlight with [highlight.js](https://highlightjs.org/) (New 06.04.2016)
+* Rss updated to Jekyll v3 (New 06.04.2016)
+* Updated to Casper v1.3.7 **(New 17.11.2017)**  
+* 'Out of the box' support for Multiple Authors **(New 17.11.2017)**  
 
-```
-$ gem install jekflix
-```
+## How to use it
 
-### Theme Colors
+### Deployment
 
-Create the file `/assets/css/styles.scss` and add:
+There are several alternatives to building and deploying the site:
 
-```
----
----
+1. build the site with [GitHub Actions](https://github.com/features/actions) which pushes
+the resulting files (the contents of `_site/` or `../jasper-pages/`)
+to the *gh-pages* branch. This is the approach that is currently used. See
+[jekyll_build.yml](.github/workflows/jekyll_build.yml) for more details.
 
-$themeColor: #ff0a16;
-$primaryDark: #141414;
-$accentDark: #ffffff;
-$lightGray: #f2f2f2;
-$texts: #333333;
+2. generate the site locally (more details below) and push the resulting
+HTML to a Github repository, that GitHub Pages then host;
 
-@import "jekflix";
-```
+3. build the site with [travis-ci](https://travis-ci.org/) (with goodies from
+[jekyll-travis](https://github.com/mfenner/jekyll-travis)) automatically pushing the
+generated HTML files to a *gh-pages* branch.
 
-Modify the variables above to change your theme colors.
+4. deploy the static website with Jekyll-compatible hosters, such as https://www.netlify.com/, that allow for deployment from the Github repo and publish the website using CDNs. Netlify has a free starter offer.
 
-### Site configuration
+For option **2)** simply clone this repository (*master branch*), and then run
+`bundle exec jekyll serve` inside the directory. Upload the resulting `_site/` (or `../jasper-pages/`)
+contents to your repository (*master branch* if uploading as your personal page
+(e.g. username.github.io) or *gh-pages branch* if uploading as a project page
+(as for the [demo](https://github.com/jekyllt/jasper/tree/gh-pages)).
 
-Below are some properties you can change in your project `_config.yml`, check the [documentation](docs/settings.md#settings) for more details.
+For option **3)** you will need to set up travis-ci for your personal fork. Briefly all you
+need then is to change your details in *[\_config.yml](_config.yml)* so that you can push
+to your github repo. You will also need to generate a secure key to add to your
+*[.travis.yml](.travis.yml)* (you can find more info on how to do it in that file).
+Also make sure you read the documentation from
+[jekyll-travis](https://github.com/mfenner/jekyll-travis). This approach has clear
+advantages in that you simply push your file changes to GitHub and all the HTML files
+are generated for you and pushed to *gh-pages*. Also you get to know if everything is
+still fine with your site builds. Don't hesitate to contact me if you still have any
+issues (see below about issue tracking).
 
-```
-# Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
-tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
-show_hero: true
-menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+### Author pages
 
-# Social Media Settings
-# Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+In order to properly generate author pages you need to rename the field *categories* in the front matter of every post to match that of your each author *username* as defined in the *[\_config.yml](_config.yml)* file.
+With the latest update, multiple author blogs are now supported out of the box.
 
-# Posts Settings
-show_time_bar: true
-show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+## Issues and contributing
 
-# Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
-categories_folder: category
-sent_message_url: "/contact/message-sent/"
+This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any problems please log them on the [issue tracker](https://github.com/jekyllt/jasper/issues).
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
-collections:
-  authors:
-    output: true
-paginate_path: "/page/:num/"
-show_get_theme_btn: true
-use_logo: false
+Feel free pull-request your patches and fixes.
 
-# Content paginator
-paginate_content:
-  enabled: true
-  debug: false
-  collections:
-    - posts
-  auto: false
-  separator: "--page-break--"
-  permalink: "/:num/"
-  seo_canonical: true
-  properties:
-    part:
-      is_generated: true
-    last:
-      is_generated: true
-    single:
-      is_generated: true
+## Thanks
 
-# SASS
-sass:
-  style: compressed
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-paginate-content
-```
+Many thanks to the Ghost team for all the design work that allows to make this clone possible. Also many thanks to all contributors, that help keeping the project alive and updated :smile:
 
-## Setup
 
-In the case you're cloning this repo, follow those instructions:
+## Copyright & License
 
-- [Environment](docs/setup.md#environment)
-- [Installing template](docs/setup.md#installing-template)
-- [Running local](docs/setup.md#running-local)
+Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).
 
-### Customization
+Copyright (C) 2015-2021 - Released under the MIT License.
 
-See the [settings documentation](docs/settings.md#settings) to customize layout, titles, social media and more.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-### Theme
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-You can easily change the theme colors by changing the file `src/yml/theme.yml`, then running `gulp build` in your terminal.
-
-#### GitHub pages
-
-It's a known issue that you can't run Gulp when deploying the website into GitHub pages. So, you must change the theme colors and run `gulp build` locally, then push the changes into your repo, there is no other way.
-
-To see how your website is going to look like when you deploy it, run `bundle exec jekyll serve` locally and access `http://127.0.0.1:4000/`.
-
-## Posts
-
-Use the [Front Matter properties](docs/post.md#front-matter-properties) to create posts.
-
-> **Note:** In the case you're cloning this repo, you can use the available [script](docs/post.md#creating-a-post) to generate posts automatically.
-
-## Questions?
-
-File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
-
-## Author
-
-[Thiago Rossener](https://rossener.com/)
-
-Do you like my work? Buy me a coffee!
-
-<a href="https://www.buymeacoffee.com/thiagorossener" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## License
-
-*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

@@ -1,68 +1,58 @@
 ---
-layout: page
+layout: default
+title: Author
+cover: 'assets/images/cover4.jpg'
+class: 'author-template'
+navigation: True
+label: Author
+logo: 'assets/images/ghost.png'
+current: author
 ---
+<!-- < default}} -->
+<!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<div class="staff">
-  {% if page.photo %}
-    <img class="img-rounded" src="{{ page.photo }}" alt="{{ author.display_name }}">
-  {% else %}
-    <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
-  {% endif %}
+<!-- The big featured header -->
 
-  <h1 class="name">{{ page.display_name }}</h1>
+<!-- Everything inside the #author tags pulls data from the author -->
+<!-- #author  -->
+    <header class="main-header author-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
+        <nav class="main-nav overlay clearfix">
+            {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+            {% if page.navigation %}
+                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+            {% endif %}
+        </nav>
+    </header>
 
-  {% if page.position %}
-    <h2 class="position">{{ page.position }}</h2>
-  {% endif %}
+    <section class="author-profile inner">
+        {% for author in site.data.authors %}
+            {% if author[1].username == page.author %}
+                {% if author[1].assets %}
+                <figure class="author-image">
+                    <div class="img" style="background-image: url({{ site.baseurl }}{{ author[1].assets }})"><span class="hidden">{{ author[1].name }}'s Picture</span></div>
+                </figure>
+                {% endif %}
+                <h1 class="author-title">{{ author[1].name }}</h1>
+                {% if author[1].bio %}
+                    <div style="display:inline; text-align: justify; text-justify: inter-word;">
+                        <h2 class="author-bio">{{ author[1].bio }}</h2>
+                    </div>
+                {% endif %}
+                <div class="author-meta">
+                    {% if author[1].location %}<span class="author-location icon-location">{{ author[1].location }}</span>{% endif %}
+                    {% if author[1].url %}<span class="author-link icon-link"><a href="{{ author[1].url_full }}">{{ author[1].url }}</a></span>{% endif %}
+                    <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
+                    <span class="author-stats"><i class="icon-stats"></i>{% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{% else %}{{ paginator.total_posts }} posts{% endif %}</span>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </section>
+<!-- /author -->
 
-  <p>{{ page.bio }}</p>
+<!-- The main content area on the homepage -->
+<main id="content" class="content" role="main">
 
-  <h2>Posts</h2>
+    <!-- The tag below includes the post loop - partials/loop.hbs  -->
+    {% include loop.html %}
 
-  <ul>
-    {% assign filtered_posts = site.posts | where: 'author', page.name | where_exp:"post","post.is_generated != true" %}
-    {% for post in filtered_posts %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
-{% assign author_urls = '' %}
-{% if page.github_username %}
-    {% assign author_urls = author_urls | append: '"https://github.com/' | append: page.github_username | append: '",' %}
-{% endif %}
-{% if page.facebook_username %}
-    {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: page.facebook_username | append: '",' %}
-{% endif %}
-{% if page.twitter_username %}
-    {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: page.twitter_username | append: '",' %}
-{% endif %}
-{% if page.medium_username %}
-    {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: page.medium_username | append: '",' %}
-{% endif %}
-{% if page.instagram_username %}
-    {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: page.instagram_username | append: '",' %}
-{% endif %}
-{% if page.linkedin_username %}
-    {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: page.linkedin_username | append: '",' %}
-{% endif %}
-
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "Person",
-    "name": "{{ page.display_name }}",
-    {% if page.photo %}
-    "image": "{{ page.photo }}",
-    {% else %}
-    "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
-    {% endif %}
-    "jobTitle": "{{ page.position }}",
-    "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-    "sameAs": [
-      {{ author_urls | split: "," | join: "," }}
-    ]
-}
-</script>
+</main>
