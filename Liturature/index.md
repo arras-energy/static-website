@@ -16,8 +16,6 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 
 - [HiPAS GridLAB-D Final Report](https://docs.google.com/document/d/1-5gXOLEBrHTsQXwa979527SMydM5_M6X/edit)
 - [TESS: Transactive Energy Service System White Paper](https://s3.us-east-2.amazonaws.com/tess.slacgismo.org/Chassin+et+al%2C+TESS+White+Paper+(2019).pdf)
-- [Book Title 3](https://example.com/book3)
-- [Book Title 3](https://example.com/book3)
 - [2018 GridLAB-D Brochure](https://www.gridlabd.org/brochures/20180212_gridlabd_brochure.pdf)
 
 ## Articles
@@ -31,7 +29,6 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 - [GISMo - Grid Integrated Systems and Mobility](https://gismo.slac.stanford.edu/)
 - [Linux Foundation - Arras Energy](https://lfenergy.org/projects/arras/)
 - [Grip Energy - Grid Resilience Improvement Project](https://www.grip.energy/)
-- [Website Title 3](https://example.com/website3)
 
 ## Learn More
 Check out the [Use-Cases][Use-Cases] for more project success stories. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].

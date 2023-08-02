@@ -9,29 +9,31 @@ current: about
 # Meet Our Team
 To achieve our goals of making Arras Energy an open resource to all students, researchers, and developers, our team has ensured to collaborate with the best.
 
-![linux]({{ site.baseurl }}assets/images/linux.png)
+<img src="{{ site.baseurl }}assets/images/linux.png" alt="linux" style="max-width: 550px;">
 
-**Learn how our commerical grade release of [HiPAS GridLAB-D][HiPAS GridLAB-D] is supported and distributed by [Linux Foundation][Linux Foundation].**
+**Learn how our commercial-grade release of [HiPAS GridLAB-D][HiPAS GridLAB-D] is supported and distributed by [Linux Foundation][Linux Foundation].**
 
-![stanford]({{ site.baseurl }}assets/images/stanford.png)
+<img src="{{ site.baseurl }}assets/images/stanford.png" alt="stanford" style="max-width: 550px;">
+
 **Read about research performed and produced by [Stanford][Stanford] experts.**
 
-![slac]({{ site.baseurl }}assets/images/slac.png)
+<img src="{{ site.baseurl }}assets/images/slac.png" alt="slac" style="max-width: 550px;">
 
 **Check out [SLAC][SLAC] for more development info on Arras Energy.**
 
-![california]({{ site.baseurl }}assets/images/california.jpg)
+<img src="{{ site.baseurl }}assets/images/california.jpg" alt="california" style="max-width: 550px;">
 
-**Find out about our goverment funding through [California Energy Commison][California Energy Commison].**
+**Find out about our government funding through [California Energy Commission][California Energy Commission].**
 
-![cnra]({{ site.baseurl }}assets/images/CNRA.png)
+<img src="{{ site.baseurl }}assets/images/CNRA.png" alt="cnra" style="max-width: 550px;">
 
 **Discover the benefits at [California Natural Resources Agency][California Natural Resources Agency].**
 
-# Ultility Companies
+# Utility Companies
 1. Pacific Gas & Electric Co.
 2. San Diego Gas & Electric
 3. Southern California Edison Company
+
 
 [Google]: https://google.com
 [jekyll-gh]: https://github.com/jekyll/jekyll
