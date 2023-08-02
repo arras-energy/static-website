@@ -10,9 +10,7 @@ current: about
 
 # Learn How To Use Arras Energy 
 
-Each video & presentation slide provided will help to expand your knowledge and master the implentation of the Arras Energy software.
-
-Click on the links to access our recordings and lectures.
+ Whether you're a beginner ready to learn the basics or an experienced developer seeking advanced implentation into your utilities, our collection of video and slide presentations has got you covered. Our expertly curated content is designed to guide you through each topic step-by-step, ensuring easy usage of Arras Energy.
 
 ## User 
 
