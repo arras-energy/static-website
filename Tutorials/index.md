@@ -4,7 +4,7 @@ cover: 'assets/images/xl.jpg'
 navigation: True
 title:  "Tutorials"
 date:   2023-07-20 11:59:00 -0700
-logo: 'assets/images/logo.png'
+logo: 'assets/images/arras.png'
 current: about
 ---
 

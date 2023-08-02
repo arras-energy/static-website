@@ -3,7 +3,7 @@ layout: page
 cover: 'assets/images/sunrise.jpg'
 title: About Arras Energy
 navigation: true
-logo: 'assets/images/logo.png'
+logo: 'assets/images/arras.png'
 current: about
 ---
 
