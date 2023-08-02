@@ -10,7 +10,7 @@ current: about
 
 # Liturature and Reports
 
-Welcome to our diverse resource page, filled with curated literature, reports, and essential news articles. Discover valuable insights for research and stay informed on crucial developments!
+Welcome to our diverse resource page, filled with curated literature, reports, and essential news articles on Arras Energy. Discover valuable insights from top researchers and stay informed on crucial developments!
 
 ## Written Reports
 
@@ -37,12 +37,12 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 - [Website Title 3](https://example.com/website3)
 
 ## Learn More
-Check out the [Google][Google] for more info on Arras Energy. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Use-Cases][Use-Cases] for more project success stories. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
 
 ## Authors
 Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
 California Energy Commission. Publication Number: CEC-500-202X-XXX.
 
-[Google]: https://google.com
-[Arras Energy's GitHub repo]:   https://github.com/arras-energy
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Use-Cases]: https://google.com
+[Arras Energy's GitHub repo]: https://github.com/arras-energy
+[Contact Form]: https://talk.jekyllrb.com/

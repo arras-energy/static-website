@@ -14,7 +14,7 @@ Arras Energy was developed with four main analysis use-cases in mind, hosting ca
 tariff design, electrification, and resilience. These use-cases were identified by the Technical
 Advisory Committee. 
 
-In addition, these use-cases provided the basis for additional
+These use-cases provided the basis for additional
 requirements, which themselves can be considered more general use-cases for HiPAS GridLABD, giving rise to the following important new features:
 
 - CYME model conversion and import.
@@ -182,10 +182,13 @@ recent tariff data for the following utilities.
     - City of Vernon
     - Victorville Municipal Utilities Services
 
-These prove how efficent and easily applicable the new HiPAS GRIDLAB-D is
+## Learn More
+Check out the [Literature][Literature] for in-depth reports on Arras Energy and its successful use-cases. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
 
-Check out the [Google][Google] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Authors
+Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
+California Energy Commission. Publication Number: CEC-500-202X-XXX.
 
-[Google]: https://google.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Literature]: https://google.com
+[Arras Energy's GitHub repo]: https://github.com/arras-energy
+[Contact Form]: https://talk.jekyllrb.com/
