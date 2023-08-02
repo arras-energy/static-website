@@ -15,10 +15,15 @@ Do you have a question, comment or feedback? Feel free to reach out for any inqu
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" placeholder="Your Name">
 
-  <br>
+<br>
 
   <label for="email">Email:</label>
   <input type="email" id="email" name="email" placeholder="Your Email">
+
+  <br>
+
+  <label for="Organization">organization:</label>
+  <input type="Organization" id="organization" name="Organization" placeholder="Your Organization">
 
   <br>
 
