@@ -14,15 +14,17 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 
 ## Written Reports
 
-- [Book Title 1](https://example.com/book1)
-- [Book Title 2](https://example.com/book2)
+- [HiPAS GridLAB-D Final Report](https://docs.google.com/document/d/1-5gXOLEBrHTsQXwa979527SMydM5_M6X/edit)
+- [TESS: Transactive Energy Service System White Paper](https://s3.us-east-2.amazonaws.com/tess.slacgismo.org/Chassin+et+al%2C+TESS+White+Paper+(2019).pdf)
 - [Book Title 3](https://example.com/book3)
+- [Book Title 3](https://example.com/book3)
+- [2018 GridLAB-D Brochure](https://www.gridlabd.org/brochures/20180212_gridlabd_brochure.pdf)
 
 ## Articles
 
-- [Article Title 1](https://example.com/article1)
-- [Article Title 2](https://example.com/article2)
-- [Article Title 3](https://example.com/article3)
+- [GISMo lab's innovative plan to make electricity cheaper, greener, and more reliable - SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/news/2022-02-28-gismo-labs-innovative-plan-make-electricity-cheaper-greener-and-more-reliable)
+- [How California can get to a reliable, 85% clean grid by 2030](https://www.canarymedia.com/articles/clean-energy/how-california-can-get-to-a-reliable-85-clean-grid-by-2030)
+- [How open source is accelerating electric sustainability - VentureBeat](https://venturebeat.com/programming-development/how-open-source-is-accelerating-electric-sustainability/)
 
 ## Videos
 
