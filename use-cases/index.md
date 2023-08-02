@@ -10,12 +10,9 @@ current: about
 
 # Arras Energy in Action
 
-Arras Energy was developed with four main analysis use-cases in mind, hosting capacity,
-tariff design, electrification, and resilience. These use-cases were identified by the Technical
-Advisory Committee. 
+The commercial-grade high-performance version of Arras Energy software developed for four California use-cases: load electrification, distributed resource integration hosting capacity, tariff design, and distribution system resilience.
 
-These use-cases provided the basis for additional
-requirements, which themselves can be considered more general use-cases for HiPAS GridLABD, giving rise to the following important new features:
+These grid modernization efforts which enhance the sensing and automation capabilities of the distribution system through use of smart grid technologies are projected to accelerate the size of utility investment in the distribution system, giving rise to the following important new features:
 
 - CYME model conversion and import.
 - Historical, real-time, and forecasted weather.

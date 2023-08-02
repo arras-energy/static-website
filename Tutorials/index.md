@@ -4,7 +4,7 @@ cover: 'assets/images/xl.jpg'
 navigation: True
 title:  "Tutorials"
 date:   2023-07-20 11:59:00 -0700
-logo: 'assets/images/logo.png'
+logo: 'assets/images/arras.png'
 current: about
 ---
 
@@ -31,19 +31,9 @@ current: about
 
 ### Video Tutorials
 
-HiPAS GridLAB-D User Quickstart Tutorial
-
 <iframe src="http://tutorials.gridlabd.us/user/quickstart.mp4?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Lecture by David Chassin, 2022
-
-### Lecture Slides
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<script async class="speakerdeck-embed" data-id="34d2856027ce01316b5d621ab8e7d421" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-
-<br>
+HiPAS GridLAB-D User Quickstart Tutorial. Lecture by David Chassin, 2022.
 
 ## Learn More
 Check out the [Literature & Reports][Literature] for in-depth reports on Arras Energy. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
