@@ -33,7 +33,7 @@ Arras addresses the needs of key stakeholders such as power system researchers, 
 In 2018, the California Energy Commission authorized $6M of EPIC program funding for three open-source projects for SLAC National Accelerator Laboratory to create a commercially viable version of GridLAB-D’s back-end simulation engine and Hitachi America Labs to create a front-end for users in California’s three largest utilities. This could include all users for the tool, from students, researchers, utilities (investor owned and publicly owned), regulators, developers, etc. The front-end software is called GLOW (which stands for GridLAB-D Open Workspace), and the back-end software, which was called HiPAS GridLAB-D, now Arras, as well as OpenFIDO which includes the pipeline tools that use Arras for multifunctional purposes.
 
 ## Learn More
-Check out the [Tutorials][Tutorials] for more quick access to learning materials. Learn about the sucess stories of Arras Energy's implentation for [Use-Cases][Use-Cases]. Read into in-depth liturature and news articles at [Reports][Reports]. 
+Check out the [Tutorials][Tutorials] for more quick access to learning materials. Learn about the sucess stories of Arras Energy's implentation for [Use-Cases][Use-Cases]. Read into in-depth literature and news articles at [Reports][Reports]. 
 
 ## Authors
 Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.

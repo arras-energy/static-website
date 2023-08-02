@@ -26,12 +26,12 @@ For experienced developers, we offer both video tutorials and in-depth lecture s
     - Resilience - wild fires/storms
     - Tariff - Billing (person/home)
     - Electrication - Green Planet
-3. Liturature & [Reports][Reports] 
+3. literature & [Reports][Reports] 
     - White Papers
     - News Articles
 
 ## Learn More
-Check out the [Tutorials][Tutorials] for more quick access to learning materials. Read into in-depth liturature and news articles at [Reports][Reports]. If you have questions, you can ask them on [Contact Form][Contact Form] to reach a professional for more information.
+Check out the [Tutorials][Tutorials] for more quick access to learning materials. Read into in-depth literature and news articles at [Reports][Reports]. If you have questions, you can ask them on [Contact Form][Contact Form] to reach a professional for more information.
 
 [Tutorials]:   https://github.com/arras-energy
 [Reports]:   https://github.com/arras-energy

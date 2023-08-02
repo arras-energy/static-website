@@ -8,7 +8,7 @@ logo: 'assets/images/arras.png'
 current: about
 ---
 
-# Liturature and Reports
+# Literature and Reports
 
 Welcome to our diverse resource page, filled with curated literature, reports, and essential news articles on Arras Energy. Discover valuable insights from top researchers and stay informed on crucial developments!
 
