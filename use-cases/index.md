@@ -25,7 +25,7 @@ routines.
 - Tools to enable external data and model generation and creation capabilities.
 - Templates to enable open-source distribution of analysis methodologies.
 - Output to plotting modules and cloud-deployed/streaming data repositories.
-- Support for cloud-based deployment infrastructure and automated continuous integration and deployment (CI/CA)
+- Support for cloud-based deployment infrastructure and automated continuous integration/deployment (CI/CA)
 - Online documentation for each version deployed.
 
 These features result in important new algorithmic, modeling capabilities, and upgrades that
@@ -62,52 +62,6 @@ communications.
 
 With GRIP, electrical utility operators can reduce operating costs by optimizing grid hardening costs and lowering liability costs and shareholder exposure. These grid operator benefits will ultimately lead to lower electricity rates for customers. 
 
-The project has been deployed with one of the largest California investor-owned utilities (IOUs), Southern California Edison (SCE). 
-
-To effectively absorb and recover from grid events a grid resilience model was developed in
-HiPAS GridLAB-D, which is coupled with resilience control strategies. HiPAS GridLAB-D code
-includes a physical failure model for distribution power poles. Using the physical characteristics
-of poles, such as material type, pole size, pole-top equipment specifications and pole design
-factors, as well as pole aging information such as age, treatment, maintenance, and general
-climate conditions, in conjunction with regional weather data, HiPAS GridLAB-D simulates the
-conditions at which a particular pole may fail.
-
-GRIP uses telemetry data to identify infrastructure most at risk from severe weather. One of the key strengths of GRIP is its threat-agnostic grid modeling capabilities. Regardless of the type of extreme weather event, if telemetry data is available regarding the failed asset, GRIP's system modeling capabilities can provide actionable insights to the grid operator. By taking an overall system perspective, GRIP is unique in its ability to coordinate heterogeneous datasets and derive numerous features to enable a proactive response to extreme weather.
-
-For example, prior to an event, GRIP can use telemetry data to identify portions of the grid that are most likely to experience asset failure due to extreme wind or vegetation strike or identify wildland areas at risk of wildfire from close grid interface .
-
-## Blockquotes
-
-Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.
-
-> Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. — [HAL 9000](http://en.wikipedia.org/wiki/HAL_9000)
-
-And here’s a bit of trailing text.
-
----
-
-Applying the HiPAS GridLAB-D pole model to GRIP resilience studies allows the simulation to
-consider the weather vulnerability of the electrical grid based on the electrical network models.
-Utility-provided Cyme networks and distribution management system (DMS) control models
-are used as test cases to provide realistic network conditions. The implementation of the
-electrical feeders starts at substation level and capture components such as transformers,
-switches, capacitors, electrical lines and metered loads in the model. These models are loaddriven and data-driven using real-world information from AMI and SCADA systems.
-
-The absorption component of GRIP includes strategies that allow the network to be broken
-down into virtual island components using GridLAB-D network modeling capabilities in the
-efforts to protect and restore the system, after being exposed to a vulnerability. HiPAS
-GridLAB-D allows users to model the conditions when system faults occur and determine
-recovery tactics using algorithms developed by Packetized Energy. Using this feature, a power
-system failure is simulated because of an extreme event, such as high wind, which breaks the
-network into isolated islands. The networks are assumed to be equipped with solar and battery
-technology to support the generation requirements within a virtual network island as seen in Figure 1, below. 
-
-The topology employs large switching devices under specific control strategies 
-that disconnects portions of the grid based on the location of the fault or system vulnerability. \Figure 1. 
-
-**Figure 1. Virtual islanding capability for GRIP’s absorption algorithm developed by Packetized Energy.**
-
-
 ### **Electrification** ###
 Electrification analysis examines the impact of converting customer end-uses provided by 
 natural gas, heating oil, or other fossil-energy sources to electricity. In residential buildings, 
@@ -130,52 +84,6 @@ recent tariff data for the following utilities.
     - Southern California Edison (SCE) 
 
 -  **Publicly Owned LSEs Including Publicly Owned Utilities (POUs)**
-    - Alameda Municipal Power 
-    - City of Anaheim 
-    - Azusa Light and Water 
-    - City of Banning
-    - Biggs Municipal Utilities 
-    - Burbank Water and Power 
-    - CCSF (also called the Power Enterprise of the San Francisco Public Utilities Commission)
-    - City of Cerritos, Cerritos Electric Utility
-    - City of Industry
-    - Colton Public Utilities
-    - City of Corona
-    - Eastside Power Authority
-    - Glendale Water and Power
-    - Gridley Electric Utility
-    - City of Healdsburg
-    - Imperial Irrigation District (IID)
-    - Kirkwood Meadows Public Utility District
-    - Lassen Municipal Utility District
-    - Lathrop Irrigation District
-    - Lodi Electric Utility
-    - City of Lompoc
-    - Los Angeles Department of Water & Power (LADWP)
-    - Merced Irrigation District (MeID)
-    - Modesto Irrigation District (MID) 
-    - Moreno Valley Utility (MVU)
-    - City of Needles (Public Utility Authority)
-    - City of Palo Alto
-    - Pasadena Water and Power
-    - City of Pittsburg, Pittsburg Power Company Island Energy
-    - Port of Oakland
-    - Port of Stockton
-    - Power and Water Resources Pooling Authority (PWRPA)
-    - Rancho Cucamonga Municipal Utility 
-    - Redding Electric Utility 
-    - City of Riverside
-    - Roseville Electric 
-    - Sacramento Municipal Utility District (SMUD) 
-    - City of Shasta Lake 
-    - Shelter Cove Resort Improvement District 
-    - Silicon Valley Power (SVP) 
-    - Trinity Public Utilities District (PUD) 
-    - Truckee Donner Public Utilities District 
-    - Turlock Irrigation District (TID)
-    - City of Ukiah
-    - City of Vernon
-    - Victorville Municipal Utilities Services
 
 ## Learn More
 Check out the [Literature][Literature] for in-depth reports on Arras Energy and its successful use-cases. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
