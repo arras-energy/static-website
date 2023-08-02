@@ -8,9 +8,11 @@ logo: 'assets/images/logo.png'
 current: about
 ---
 
-# Learn how to use Arras Energy 
+# Learn How To Use Arras Energy 
 
-Welcome to our comprehensive tutorial page! Here, you'll find a range of valuable resources for both users and developers. Each video & presentation slide provided will help to expand your knowledge and master the implentation of the Arras Energy software. Whether you're a beginner ready to learn the basics or an experienced developer seeking advanced implentation into your utilities, our collection of video tutorials and slide presentations has got you covered. Our expertly curated content is designed to guide you through each topic step-by-step, ensuring a rewarding and enjoyable learning experience. 
+Each video & presentation slide provided will help to expand your knowledge and master the implentation of the Arras Energy software.
+
+Click on the links to access our recordings and lectures.
 
 ## User 
 
