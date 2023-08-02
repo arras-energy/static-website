@@ -6,7 +6,7 @@ navigation: true
 logo: 'assets/images/logo.png'
 current: about
 ---
-# Developers & Producers
+# Meet Our Team
 To achieve our goals of making Arras Energy an open resource to all students, researchers, and developers, our team has ensured to collaborate with the best.
 
 ![linux]({{ site.baseurl }}assets/images/linux.png)
@@ -14,7 +14,7 @@ To achieve our goals of making Arras Energy an open resource to all students, re
 **Learn how our commerical grade release of [HiPAS GridLAB-D][HiPAS GridLAB-D] is supported and distributed by [Linux Foundation][Linux Foundation].**
 
 ![stanford]({{ site.baseurl }}assets/images/stanford.png)
-**Read about research performed by [Stanford][Stanford] experts.**
+**Read about research performed and produced by [Stanford][Stanford] experts.**
 
 ![slac]({{ site.baseurl }}assets/images/slac.png)
 

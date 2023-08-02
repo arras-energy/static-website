@@ -7,18 +7,25 @@ logo: 'assets/images/logo.png'
 current: about
 ---
 
-# Get In Touch 
-<form action="https://formspree.io/YOUR_EMAIL" method="POST">
+# Questions or comments?
+Do you have a question, comment or feedback? Feel free to reach out for any inquires. We are here to support!
+
+<div style="margin-bottom: 20px;">
+  <!-- Your contact form fields go here -->
   <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
-  
-   <label for="company">Company:</label>
-  <input type="company" id="company" name="company" required>
+  <input type="text" id="name" name="name" placeholder="Your Name">
+
+  <br>
 
   <label for="email">Email:</label>
-  <input type="email" id="email" name="_replyto" required>
-  
+  <input type="email" id="email" name="email" placeholder="Your Email">
+
+  <br>
+
   <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-   <button type="submit">Send Message</button>
-</form>
+  <textarea id="message" name="message" rows="4" placeholder="Your Message"></textarea>
+
+  <br>
+
+    <button type="submit">Send Message</button> 
+</div>

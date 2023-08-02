@@ -8,14 +8,14 @@ current: about
 ---
 
 
-# A simulation platform for California's future electricity distribution power systems.
+# A simulation platform for future electricity distribution power systems.
 
 GridLAB-D is a research-grade power system simulator developed by the US Department of
 Energy and used to study future electricity distribution systems. HiPAS GridLAB-D, rebranded as Arras Energy, is a
 commercial-grade high-performance version of this software developed for four California usecases: load electrification, distributed resource integration hosting capacity, tariff design, and
 distribution system resilience. 
 
-These use-cases address California’s climate change goals,
+These [use-cases][use-cases] address California’s climate change goals,
 including electricity infrastructure decarbonization and response to climate change impacts on
 electricity distribution system infrastructure.
 
@@ -76,14 +76,14 @@ GridLAB-D is a modern open-source agent-based power system simulation tool devel
 US Department of Energy’s (DOE) Office of Electricity to study modern power systems with
 high renewables, energy storage and demand response at the distribution level. GridLAB-D has
 been available to the public since 2008. The DOE version of GridLAB-D is highly versatile and
-scalable, but it has several important limitations for the use-cases that are common to utilities
+scalable, but it has several important limitations for the [use-cases][use-cases] that are common to utilities
 serving ratepayers in California. Specifically,
 1. GridLAB-D is difficult to install and deploy in the diverse operating environments found
 at utilities in California.
 2. GridLAB-D requires data that is often difficult to obtain from public sources or is only
 available from tools and databases that are proprietary and often difficult to access.
 3. There are no standard analysis methodologies implemented in GridLAB-D for the
-identified use-cases required by California utilities.
+identified [use-cases][use-cases] required by California utilities.
 4. Regulatory agencies need open-source software to perform analyses to consider
 distribution and tariff planning questions for renewable integration, energy storage and
 demand response.
@@ -133,12 +133,13 @@ server and simulation, the runtime of the CEC version required a total of 4.5 ho
 only $20.25.
 
 ## Learn More
-Check out the [Google][Google] for more info on Arras Energy. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Tutorials][Tutorials] for more quick access to learning materials. Read into in-depth liturature and news articles at [Reports][Reports]. If you have questions, you can ask them on [Contact Form][Contact Form] to reach a professional for more information.
 
 ## Authors
 Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
 California Energy Commission. Publication Number: CEC-500-202X-XXX.
 
-[Google]: https://google.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Tutorials]:   https://github.com/arras-energy
+[Reports]:   https://github.com/arras-energy
+[Contact Form]:   https://github.com/arras-energy
+[Use-Cases]:   https://github.com/arras-energy

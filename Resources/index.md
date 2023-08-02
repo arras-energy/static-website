@@ -7,7 +7,7 @@ date:   2023-07-20 11:59:00 -0700
 logo: 'assets/images/logo.png'
 current: about
 ---
-
+# Are You A User or Developer?
 Our video tutorials and presentations serve as powerful learning tools for both beginning users and experienced developers alike.
 
 When deciding which tutorials to follow, identitfy if you are a user looking to learn how to use Arras Energy or a utilities developer seeking straight forward steps to implenting our software to your utilities.
@@ -18,21 +18,22 @@ For beginners, video tutorials provide a visual and interactive way to learn how
 For experienced developers, we offer both video tutorials and in-depth lecture slides enabling the implentation of advanced techniques and allow you to stay updated with the latest industry practices.
 
 ## All Content In This Section:
-1. Tutorials
+1. [Tutorials][Tutorials]
     - Users guide
     - Developers guide
-2. Use Cases
+2. [Use Cases][Use Cases]
     - ICA - solar and batteries
     - Resilience - wild fires/storms
     - Tariff - Billing (person/home)
     - Electrication - Green Planet
-3. Liturature & Reports 
+3. Liturature & [Reports][Reports] 
     - White Papers
     - News Articles
 
 ## Learn More
-Check out the [Tutorials][Tutorials] for more quick access to learning materials. Read into in-depth liturature and news articles at [Reports][Reports]. If you have questions, you can ask them on [Contact][Contact] to reach a professional for more info.
+Check out the [Tutorials][Tutorials] for more quick access to learning materials. Read into in-depth liturature and news articles at [Reports][Reports]. If you have questions, you can ask them on [Contact Form][Contact Form] to reach a professional for more information.
 
 [Tutorials]:   https://github.com/arras-energy
 [Reports]:   https://github.com/arras-energy
-[Contact]:   https://github.com/arras-energy
+[Contact Form]:   https://github.com/arras-energy
+[Use Cases]:   https://github.com/arras-energy
