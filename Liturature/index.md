@@ -14,7 +14,7 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 
 ## Written Reports
 
-- [HiPAS GridLAB-D Final Report](https://docs.google.com/document/d/1-5gXOLEBrHTsQXwa979527SMydM5_M6X/edit)
+- [HiPAS GridLAB-D Final Report](https://drive.google.com/file/d/13uk-BRT2FVdv5OuEbbtdAIB1tuZdgt1i/view?usp=drive_link)
 - [TESS: Transactive Energy Service System White Paper](https://s3.us-east-2.amazonaws.com/tess.slacgismo.org/Chassin+et+al%2C+TESS+White+Paper+(2019).pdf)
 
 

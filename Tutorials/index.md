@@ -29,7 +29,7 @@ current: about
 - [Session 6](http://tutorials.gridlabd.us/developer/session6-1.mp4) - Solvers 1 (Core Engine and Thermal)
 - [Session 6](https://example.com/presentation3-slides) - Solvers 2 (Powerflow)
 
-### Video Tutorials
+## Quickstart Tutorial
 
 <iframe src="http://tutorials.gridlabd.us/user/quickstart.mp4?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
