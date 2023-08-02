@@ -26,16 +26,11 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 - [How California can get to a reliable, 85% clean grid by 2030](https://www.canarymedia.com/articles/clean-energy/how-california-can-get-to-a-reliable-85-clean-grid-by-2030)
 - [How open source is accelerating electric sustainability - VentureBeat](https://venturebeat.com/programming-development/how-open-source-is-accelerating-electric-sustainability/)
 
-## Videos
-
-- [Video Title 1](https://example.com/video1)
-- [Video Title 2](https://example.com/video2)
-- [Video Title 3](https://example.com/video3)
-
 ## Websites
 
-- [Website Title 1](https://example.com/website1)
-- [Website Title 2](https://example.com/website2)
+- [GISMo - Grid Integrated Systems and Mobility](https://gismo.slac.stanford.edu/)
+- [Linux Foundation - Supporter & Distributer](https://www.linuxfoundation.org/)
+- [Grip Energy - Grid Resilience Improvement Project](https://www.grip.energy/)
 - [Website Title 3](https://example.com/website3)
 
 ## Learn More
