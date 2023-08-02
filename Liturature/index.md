@@ -10,18 +10,31 @@ current: about
 
 # Liturature and Reports
 
-All content in this page:
-1. Tutorials
-    - Users guide
-    - Developers guide
-2. Use Cases
-    - ICA - solar and batteries
-    - Resilience - wild fires/storms
-    - Tariff - Billing (person/home)
-    - Electrication - Green Planet
-3. Liturature & Reports 
-    - White Papers
-    - News Articles
+Welcome to our diverse resource page, filled with curated literature, reports, and essential news articles. Discover valuable insights for research and stay informed on crucial developments!
+
+## Written Reports
+
+- [Book Title 1](https://example.com/book1)
+- [Book Title 2](https://example.com/book2)
+- [Book Title 3](https://example.com/book3)
+
+## Articles
+
+- [Article Title 1](https://example.com/article1)
+- [Article Title 2](https://example.com/article2)
+- [Article Title 3](https://example.com/article3)
+
+## Videos
+
+- [Video Title 1](https://example.com/video1)
+- [Video Title 2](https://example.com/video2)
+- [Video Title 3](https://example.com/video3)
+
+## Websites
+
+- [Website Title 1](https://example.com/website1)
+- [Website Title 2](https://example.com/website2)
+- [Website Title 3](https://example.com/website3)
 
 ## Learn More
 Check out the [Google][Google] for more info on Arras Energy. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].

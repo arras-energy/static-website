@@ -2,15 +2,25 @@
 layout: page
 cover: 'assets/images/2miles.jpg'
 navigation: True
-title:  "Resources"
+title:  "Getting Started"
 date:   2023-07-20 11:59:00 -0700
 logo: 'assets/images/logo.png'
 current: about
 ---
 
-# Getting Started - Are You A User or Developer?
+# Are You A User or Developer?
 
-All content in this page:
+Our video [tutorials][tutorials] and presentations serve as powerful learning tools for both beginning users and experienced developers alike. 
+
+When deciding which tutorials to follow, identitfy if you are a user looking to learn how to use Arras Energy or a utilities developer seeking straight forward steps to implenting our software to your utilities.
+
+## Choosing Your Learning Path
+
+For beginners, video tutorials provide a visual and interactive way to learn how to use the software through step-by-step instructions. 
+
+For experienced developers, we offer both video tutorials and in-depth lecture slides enabling the implentation of advanced techniques and allow you to stay updated with the latest industry practices. 
+
+## All Content In This Section:
 1. Tutorials
     - Users guide
     - Developers guide
@@ -23,13 +33,4 @@ All content in this page:
     - White Papers
     - News Articles
 
-## Learn More
-Check out the [Google][Google] for more info on Arras Energy. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-## Authors
-Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
-California Energy Commission. Publication Number: CEC-500-202X-XXX.
-
-[Google]: https://google.com
-[Arras Energy's GitHub repo]:   https://github.com/arras-energy
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Tutorials]:   https://github.com/arras-energy

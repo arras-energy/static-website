@@ -8,7 +8,22 @@ logo: 'assets/images/logo.png'
 current: about
 ---
 
-# Implenation & Learning
+# Learn how to use Arras Energy 
+
+Welcome to our comprehensive tutorial page! Here, you'll find a range of valuable resources for both users and developers. Each video & presentation slide provided will help to expand your knowledge and master the implentation of the Arras Energy software. Whether you're a beginner ready to learn the basics or an experienced developer seeking advanced implentation into your utilities, our collection of video tutorials and slide presentations has got you covered. Our expertly curated content is designed to guide you through each topic step-by-step, ensuring a rewarding and enjoyable learning experience. 
+
+## User 
+
+- [Tutorial 1](https://example.com/tutorial1-video) - Introduction to Topic 1
+- [Tutorial 2](https://example.com/tutorial2-video) - Advanced Techniques in Topic 2
+- [Tutorial 3](https://example.com/tutorial3-video) - Mastering Topic 3
+
+## Developer
+
+- [Presentation 1](https://example.com/presentation1-slides) - Slide Deck for Topic 1
+- [Presentation 2](https://example.com/presentation2-slides) - In-Depth Analysis of Topic 2
+- [Presentation 3](https://example.com/presentation3-slides) - Exploring Topic 3 with Visuals
+
 
 All content in this page:
 1. Tutorials
