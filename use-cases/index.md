@@ -60,6 +60,14 @@ resources; and
 - Reducing recovery time by managing distributed energy resources in the case of limited
 communications.
 
+## Table
+
+| Table Header 1 | Table Header 2 | Table Header 3 |
+| -------------- | -------------- | -------------- |
+| Division 1     | Division 2     | Division 3     |
+| Division 1     | Division 2     | Division 3     |
+| Division 1     | Division 2     | Division 3     |
+
 GRIP builds on previous efforts to collect massive amounts of data that can be used to finetune grid operations, including the VADER project and other Grid Modernization Lab
 Consortium projects on distributed controls and cyber security.
 
@@ -82,6 +90,17 @@ of poles, such as material type, pole size, pole-top equipment specifications an
 factors, as well as pole aging information such as age, treatment, maintenance, and general
 climate conditions, in conjunction with regional weather data, HiPAS GridLAB-D simulates the
 conditions at which a particular pole may fail.
+
+
+## Blockquotes
+
+Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.
+
+> Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. — [HAL 9000](http://en.wikipedia.org/wiki/HAL_9000)
+
+And here’s a bit of trailing text.
+
+---
 
 Along with the physical stress and failure model, a degradation model addresses aging of the
 poles. An electrical pole is considered at the end of service life by the electrical utility company

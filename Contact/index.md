@@ -9,6 +9,7 @@ current: about
 
 # Questions or comments?
 Do you have a question, comment or feedback? Feel free to reach out for any inquires. We are here to support!
+Email directory: arras-discussion@lists.lfenergy.org
 
 <div style="margin-bottom: 10px;">
   <!-- Your contact form fields go here -->

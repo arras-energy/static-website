@@ -4,7 +4,7 @@ cover: 'assets/images/xl.jpg'
 navigation: True
 title:  "Tutorials"
 date:   2023-07-20 11:59:00 -0700
-logo: 'assets/images/arras.png'
+logo: 'assets/images/logo.png'
 current: about
 ---
 
@@ -13,8 +13,7 @@ current: about
  Whether you're a beginner ready to learn the basics or an experienced developer seeking advanced implentation into your utilities, our collection of video and slide presentations has got you covered. Our expertly curated content is designed to guide you through each topic step-by-step, ensuring easy usage of Arras Energy.
 
 ## User Guide
-
-- [Quick Start 1](http://tutorials.gridlabd.us/user/quickstart.mp4) - GridLAB-D Quickstart
+- [Quick Start 1](http://tutorials.gridlabd.us/) - GridLAB-D Quickstart
 - [Sample Models 2](http://tutorials.gridlabd.us/user/samplemodels.mp4) - Accessing Sample Models
 - [Weather Data 3](http://tutorials.gridlabd.us/user/weatherdata.mp4) - Getting weather data
 - [Load Models 4](http://tutorials.gridlabd.us/user/loadmodels.mp4) - Creating load models
@@ -30,8 +29,24 @@ current: about
 - [Session 6](http://tutorials.gridlabd.us/developer/session6-1.mp4) - Solvers 1 (Core Engine and Thermal)
 - [Session 6](https://example.com/presentation3-slides) - Solvers 2 (Powerflow)
 
+### Video Tutorials
+
+HiPAS GridLAB-D User Quickstart Tutorial
+
+<iframe src="http://tutorials.gridlabd.us/user/quickstart.mp4?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Lecture by David Chassin, 2022
+
+### Lecture Slides
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+<script async class="speakerdeck-embed" data-id="34d2856027ce01316b5d621ab8e7d421" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>
+
 ## Learn More
-Check out the [Literature & Reports][Literature] for in-depth reports on Arras Energy and its successful use-cases. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
+Check out the [Literature & Reports][Literature] for in-depth reports on Arras Energy. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
 
 ## Authors
 Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
@@ -40,3 +55,4 @@ California Energy Commission. Publication Number: CEC-500-202X-XXX.
 [Literature]: https://google.com
 [Arras Energy's GitHub repo]: https://github.com/arras-energy
 [Contact Form]: https://talk.jekyllrb.com/
+[Video]: http://tutorials.gridlabd.us/developer/session1.mp4 

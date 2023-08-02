@@ -29,7 +29,7 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 ## Websites
 
 - [GISMo - Grid Integrated Systems and Mobility](https://gismo.slac.stanford.edu/)
-- [Linux Foundation - Supporter & Distributer](https://www.linuxfoundation.org/)
+- [Linux Foundation - Arras Energy](https://lfenergy.org/projects/arras/)
 - [Grip Energy - Grid Resilience Improvement Project](https://www.grip.energy/)
 - [Website Title 3](https://example.com/website3)
 
