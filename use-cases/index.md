@@ -28,8 +28,7 @@ routines.
 - Tools to enable external data and model generation and creation capabilities.
 - Templates to enable open-source distribution of analysis methodologies.
 - Output to plotting modules and cloud-deployed/streaming data repositories.
-- Support for cloud-based deployment infrastructure, including Amazon AWS and Docker.
-- Support for automated continuous integration and continuous deployment (CI/CA)
+- Support for cloud-based deployment infrastructure and automated continuous integration and deployment (CI/CA)
 - Online documentation for each version deployed.
 
 These features result in important new algorithmic, modeling capabilities, and upgrades that
@@ -50,7 +49,11 @@ a system violation occurs somewhere within a feeder.
 
 ### **Grid Resilience Analysis**
 The resilience use-case was supported by the US Department of Energy's Grid Resilience
-Intelligence Project (GRIP) project, funded by the Solar Energy Technology Office. The goal of
+Intelligence Project (GRIP) project, funded by the Solar Energy Technology Office. 
+
+GRIP is a cutting-edge software platform designed to help electric grid operators anticipate, mitigate against, and recover from the effects of extreme weather events. By combining state-of-the-art agent-based grid modeling tools with grid resilience metrics, GRIP can quantify the state of the grid assets before extreme events, and provide grid operators with actionable insights, such as staging maintenance crew locations, proactive pole hardening or grid topology reconfiguration, to help minimize equipment damage and revenue loss due to power outages. 
+
+The goal of
 GRIP is to assist distribution utilities in responding to grid events by:
 
 - Anticipating grid events using machine learning and artificial intelligence techniques
@@ -60,28 +63,9 @@ resources; and
 - Reducing recovery time by managing distributed energy resources in the case of limited
 communications.
 
-## Table
+With GRIP, electrical utility operators can reduce operating costs by optimizing grid hardening costs and lowering liability costs and shareholder exposure. These grid operator benefits will ultimately lead to lower electricity rates for customers. 
 
-| Table Header 1 | Table Header 2 | Table Header 3 |
-| -------------- | -------------- | -------------- |
-| Division 1     | Division 2     | Division 3     |
-| Division 1     | Division 2     | Division 3     |
-| Division 1     | Division 2     | Division 3     |
-
-GRIP builds on previous efforts to collect massive amounts of data that can be used to finetune grid operations, including the VADER project and other Grid Modernization Lab
-Consortium projects on distributed controls and cyber security.
-
-GRIP included innovative applications of artificial intelligence and machine learning for
-distribution grid resilience using predictive analytics, image recognition, increased “learning”
-and “problem solving” capabilities for anticipation of grid events. The GRIP project
-demonstrates distributed control theory with and without communications to absorb and
-recover from grid events.
-
-GRIP was deployed, tested and validated with utility partners in North America. Anticipation
-analytics were tested and validated with Southern California Edison; absorption algorithms
-were tested in Vermont; and extremum seeking controls developed by Lawrence Berkeley
-National Laboratory were tested with member utilities of the National Rural Electric
-Cooperative Association.
+The project has been deployed with one of the largest California investor-owned utilities (IOUs), Southern California Edison (SCE). 
 
 To effectively absorb and recover from grid events a grid resilience model was developed in
 HiPAS GridLAB-D, which is coupled with resilience control strategies. HiPAS GridLAB-D code
@@ -91,6 +75,9 @@ factors, as well as pole aging information such as age, treatment, maintenance, 
 climate conditions, in conjunction with regional weather data, HiPAS GridLAB-D simulates the
 conditions at which a particular pole may fail.
 
+GRIP uses telemetry data to identify infrastructure most at risk from severe weather. One of the key strengths of GRIP is its threat-agnostic grid modeling capabilities. Regardless of the type of extreme weather event, if telemetry data is available regarding the failed asset, GRIP's system modeling capabilities can provide actionable insights to the grid operator. By taking an overall system perspective, GRIP is unique in its ability to coordinate heterogeneous datasets and derive numerous features to enable a proactive response to extreme weather.
+
+For example, prior to an event, GRIP can use telemetry data to identify portions of the grid that are most likely to experience asset failure due to extreme wind or vegetation strike or identify wildland areas at risk of wildfire from close grid interface .
 
 ## Blockquotes
 
@@ -101,14 +88,6 @@ Let’s keep it simple. Italics are good to help set it off from the body text. 
 And here’s a bit of trailing text.
 
 ---
-
-Along with the physical stress and failure model, a degradation model addresses aging of the
-poles. An electrical pole is considered at the end of service life by the electrical utility company
-when the minimum shell thickness is less than 2 inches. Based on this assumption, the
-degradation model uses the difference between the inside and the outside pole’s core moment
-at the base of the structure where it is considered weakest. Note that the lifetime of the pole
-depends on the geographical location, pole treatment, and the weight of the pole-top
-equipment, all of which are described by the pole data and configuration.
 
 Applying the HiPAS GridLAB-D pole model to GRIP resilience studies allows the simulation to
 consider the weather vulnerability of the electrical grid based on the electrical network models.
