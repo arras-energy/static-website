@@ -10,7 +10,7 @@ current: about
 
 # Learn How To Use Arras Energy 
 
- Whether you're a beginner ready to learn the basics or an experienced developer seeking advanced implentation into your utilities, our collection of video and slide presentations has got you covered. Our expertly curated content is designed to guide you through each topic step-by-step, ensuring easy usage of Arras Energy.
+ Whether you're a beginner ready to learn the basics or an experienced developer seeking advanced implentation into your utilities, our collection of video and slide presentations has got you covered! Our expertly curated content is designed to guide you through each topic step-by-step, ensuring easy usage of Arras Energy.
 
 ## User Guide
 - [Quick Start 1](http://tutorials.gridlabd.us/) - GridLAB-D Quickstart
