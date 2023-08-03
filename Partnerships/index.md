@@ -11,11 +11,11 @@ current: about
 
 To achieve our goals of making Arras Energy an open resource to all students, researchers, and developers, our team has ensured to collaborate with the best.
 
-[<img src="{{ site.baseurl }}assets/images/linux.png" alt="linux" style="max-width: 400px;">](https://www.linuxfoundation.org/)
+[<img src="{{ site.baseurl }}assets/images/linux.png" alt="linux" style="max-width: 395px;">](https://www.linuxfoundation.org/)
 
 Dive into the world of open-source energy software and learn how the [Linux Foundation][Linux Foundation] drives energy industry advancements by supporting innovative projects like [HiPAS GridLAB-D][HiPAS GridLAB-D].
 
-[<img src="{{ site.baseurl }}assets/images/stanford.png" alt="stanford" style="max-width: 400px;">](https://stanford.edu)
+[<img src="{{ site.baseurl }}assets/images/stanford.png" alt="stanford" style="max-width: 395px;">](https://stanford.edu)
 
 Discover groundbreaking energy research and initiatives led by [Stanford][Stanford]'s top experts, shaping the future of sustainable energy solutions.
 
@@ -33,7 +33,8 @@ Uncover the vital role [California Natural Resources Agency][California Natural 
 
 # Utility Companies
 
-[<img src="{{ site.baseurl }}assets/images/PGE.png" alt="Pacific Gas & Electric Co." style="max-width: 400px;">][pge]
+[<img src="{{ site.baseurl }}assets/images/pge.png" alt="Pacific Gas & Electric Co." style="max-width: 410px;" />][pge]
+
 Discover how [Pacific Gas & Electric Co.][pge] is leading in sustainable energy solutions to power a greener future.
 
 [<img src="{{ site.baseurl }}assets/images/sdge.svg" alt="San Diego Gas & Electric" style="max-width: 390px;">][sdge]
