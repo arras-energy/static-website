@@ -19,7 +19,7 @@ Dive into the world of open-source energy software and learn how the [Linux Foun
 
 Discover groundbreaking energy research and initiatives led by [Stanford][Stanford]'s top experts, shaping the future of sustainable energy solutions.
 
-[<img src="{{ site.baseurl }}assets/images/slac.png" alt="slac" style="max-width: 400px;">](https://www6.slac.stanford.edu/)
+[<img src="{{ site.baseurl }}assets/images/slac.png" alt="slac" style="max-width: 410px;">](https://www6.slac.stanford.edu/)
 
 Explore cutting-edge research and advancements in energy science and technology at [SLAC][SLAC], a world-renowned research facility.
 
@@ -31,7 +31,10 @@ Learn about California's commitment to renewable energy and how the [California 
 
 Uncover the vital role [California Natural Resources Agency][California Natural Resources Agency] plays in preserving and managing diverse natural resources.
 
+____
+
 # Utility Companies
+Arras Energy's open-source platform has gained widespread adoption among public utilities companies, making it accessible to diverse groups and driving sustainable energy solutions. 
 
 [<img src="{{ site.baseurl }}assets/images/pge.png" alt="Pacific Gas & Electric Co." style="max-width: 410px;" />][pge]
 
