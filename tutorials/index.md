@@ -29,12 +29,6 @@ current: about
 - [Session 6](http://tutorials.gridlabd.us/developer/session6-1.mp4) - Solvers 1 (Core Engine and Thermal)
 - [Session 6](https://example.com/presentation3-slides) - Solvers 2 (Powerflow)
 
-## Quickstart Tutorial
-
-<iframe src="http://tutorials.gridlabd.us/user/quickstart.mp4?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-HiPAS GridLAB-D User Quickstart Tutorial. Lecture by David Chassin, 2022.
-
 ## Learn More
 Check out the [Literature & Reports][Literature] for in-depth reports on Arras Energy. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
 

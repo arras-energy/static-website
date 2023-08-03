@@ -71,16 +71,11 @@ distribution panel in the home is exceeded, and a panel upgrade is required.
 The tariff analysis use-case is designed to include a few tariff structures that IOUs, POUs and 
 CCAs implement to give HiPAS GridLAB-D users the ability to explore a variety of tariff designs 
 for their distribution networks and customer compositions. Tariff models are obtained from the 
-National Renewable Energy Laboratory (NREL) OpenEI database of tariffs. These include 
-recent tariff data for the following utilities. 
-- **Investor-Owned Utilities** 
-    - Bear Valley Electric Service 
-    - Pacific Gas and Electric 
-    - PacifiCorp 
-    - San Diego Gas and Electric 
-    - Southern California Edison (SCE) 
-
--  **Publicly Owned LSEs Including Publicly Owned Utilities (POUs)**
+National Renewable Energy Laboratory (NREL) OpenEI database of tariffs, including:
+- Investor-Owned Utilities 
+- Publicly Owned LSEs Including Publicly Owned Utilities (POUs)
+- Rural Electric Cooperatives
+- Community Choice Aggregators
 
 ## Learn More
 Check out [Literature][Literature] for in-depth reports on Arras Energy and its successful use-cases. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
