@@ -45,9 +45,6 @@ generation and DER resources are varied at customer meter, independently, to ver
 a system violation occurs somewhere within a feeder.
 
 ### **Grid Resilience Analysis**
-The resilience use-case was supported by the US Department of Energy's Grid Resilience
-Intelligence Project (GRIP) project, funded by the Solar Energy Technology Office. 
-
 GRIP is a cutting-edge software platform designed to help electric grid operators anticipate, mitigate against, and recover from the effects of extreme weather events. By combining state-of-the-art agent-based grid modeling tools with grid resilience metrics, GRIP can quantify the state of the grid assets before extreme events, and provide grid operators with actionable insights, such as staging maintenance crew locations, proactive pole hardening or grid topology reconfiguration, to help minimize equipment damage and revenue loss due to power outages. 
 
 The goal of

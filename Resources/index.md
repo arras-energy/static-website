@@ -10,12 +10,10 @@ current: about
 # Are You A User or Developer?
 Our video tutorials and presentations serve as powerful learning tools for both beginning users and experienced developers alike.
 
-When deciding which tutorials to follow, identitfy if you are a user looking to learn how to use Arras Energy or a utilities developer seeking straight forward steps to implenting our software to your utilities.
-
 ## Choosing Your Learning Path
-For beginners, video tutorials provide a visual and interactive way to learn how to use the software through step-by-step instructions.
+For **beginners**, video tutorials provide a visual and interactive way to learn how to use the software through step-by-step instructions.
 
-For experienced developers, we offer both video tutorials and in-depth lecture slides enabling the implentation of advanced techniques and allow you to stay updated with the latest industry practices.
+For **experienced developers**, we offer both video tutorials and in-depth lecture slides enabling the implentation of advanced techniques and allow you to stay updated with the latest industry practices.
 
 ## All Content In This Section:
 1. [Tutorials][Tutorials]

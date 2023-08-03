@@ -13,32 +13,30 @@ To achieve our goals of making Arras Energy an open resource to all students, re
 
 [<img src="{{ site.baseurl }}assets/images/linux.png" alt="linux" style="max-width: 400px;">](https://www.linuxfoundation.org/)
 
-Learn how our commercial-grade release of [HiPAS GridLAB-D][HiPAS GridLAB-D] is supported and distributed by [Linux Foundation][Linux Foundation].
-
+Dive into the world of open-source energy software and learn how the [Linux Foundation][Linux Foundation] drives energy industry advancements by supporting innovative projects like [HiPAS GridLAB-D][HiPAS GridLAB-D].
 
 [<img src="{{ site.baseurl }}assets/images/stanford.png" alt="stanford" style="max-width: 400px;">](https://stanford.edu)
 
-Read about research performed and produced by [Stanford][Stanford] experts.
+Discover groundbreaking energy research and initiatives led by [Stanford][Stanford]'s top experts, shaping the future of sustainable energy solutions.
 
 [<img src="{{ site.baseurl }}assets/images/slac.png" alt="slac" style="max-width: 400px;">](https://www6.slac.stanford.edu/)
 
-Check out [SLAC][SLAC] for more development info on Arras Energy.
+Explore cutting-edge research and advancements in energy science and technology at [SLAC][SLAC], a world-renowned research facility.
 
 [<img src="{{ site.baseurl }}assets/images/california.jpg" alt="california" style="max-width: 400px;">](https://www.energy.ca.gov/)
 
-Find out about our government funding through [California Energy Commission][California Energy Commission].
+Learn about California's commitment to renewable energy and how the [California Energy Commission][California Energy Commission] drives sustainable energy policies and initiatives.
 
 [<img src="{{ site.baseurl }}assets/images/CNRA.png" alt="cnra" style="max-width: 400px;">](https://resources.ca.gov/)
 
-Discover the benefits at [California Natural Resources Agency][California Natural Resources Agency].
-
+Uncover the vital role [California Natural Resources Agency][California Natural Resources Agency] plays in preserving and managing diverse natural resources.
 
 # Utility Companies
 
 [<img src="{{ site.baseurl }}assets/images/pge.png" alt="Pacific Gas & Electric Co." style="max-width: 400px;">][pge]
 Discover how [Pacific Gas & Electric Co.][pge] is leading in sustainable energy solutions to power a greener future.
 
-[<img src="{{ site.baseurl }}assets/images/sdge.svg" alt="San Diego Gas & Electric" style="max-width: 400px;">][sdge]
+[<img src="{{ site.baseurl }}assets/images/sdge.svg" alt="San Diego Gas & Electric" style="max-width: 390px;">][sdge]
 Learn about [San Diego Gas & Electric][sdge]'s innovative initiatives towards clean energy and community engagement.
 
 [<img src="{{ site.baseurl }}assets/images/sce.png" alt="Southern California Edison Company" style="max-width: 350px;">][scec]
