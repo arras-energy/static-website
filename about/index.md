@@ -44,8 +44,4 @@ California Energy Commission. Publication Number: CEC-500-202X-XXX.
 [Use-Cases]:  https://arras-energy.github.io/static-website/use-cases/  
 [Arras Energy's GitHub repo]: https://github.com/arras-energy
 
-[Tutorials](https://arras-energy.github.io/static-website/tutorials/)
-[Reports](https://arras-energy.github.io/static-website/literature/)
-[Use-Cases](https://arras-energy.github.io/static-website/use-cases/)
-[Arras Energy's GitHub repo](https://github.com/arras-energy)
 

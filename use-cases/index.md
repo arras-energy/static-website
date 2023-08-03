@@ -78,7 +78,7 @@ National Renewable Energy Laboratory (NREL) OpenEI database of tariffs, includin
 - Community Choice Aggregators
 
 ## Learn More
-Check out the [Tutorials][Tutorials] for more quick access to learning materials. Read into in-depth literature and news articles at [Reports][Reports]. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo].
+Check out the [Tutorials](https://arras-energy.github.io/static-website/tutorials/) for more quick access to learning materials. Read into in-depth literature and news articles at [Reports](https://arras-energy.github.io/static-website/literature/). File all bugs/feature requests at [Arras Energy's GitHub repo](https://github.com/arras-energy).
 
 ## Authors
 Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
