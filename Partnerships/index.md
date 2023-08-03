@@ -23,7 +23,7 @@ Discover groundbreaking energy research and initiatives led by [Stanford][Stanfo
 
 Explore cutting-edge research and advancements in energy science and technology at [SLAC][SLAC], a world-renowned research facility.
 
-[<img src="{{ site.baseurl }}assets/images/california.jpg" alt="california" style="max-width: 400px;">](https://www.energy.ca.gov/)
+[<img src="{{ site.baseurl }}assets/images/cali.jpeg" alt="cali" style="max-width: 400px;">](https://www.energy.ca.gov/)
 
 Learn about California's commitment to renewable energy and how the [California Energy Commission][California Energy Commission] drives sustainable energy policies and initiatives.
 
