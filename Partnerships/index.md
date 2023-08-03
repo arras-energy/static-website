@@ -6,45 +6,52 @@ navigation: true
 logo: 'assets/images/arras.png'
 current: about
 ---
+
 # Meet Our Team
+
 To achieve our goals of making Arras Energy an open resource to all students, researchers, and developers, our team has ensured to collaborate with the best.
 
-<img src="{{ site.baseurl }}assets/images/linux.png" alt="linux" style="max-width: 550px;">
+[<img src="{{ site.baseurl }}assets/images/linux.png" alt="linux" style="max-width: 400px;">](https://www.linuxfoundation.org/)
 
-**Learn how our commercial-grade release of [HiPAS GridLAB-D][HiPAS GridLAB-D] is supported and distributed by [Linux Foundation][Linux Foundation].**
+Learn how our commercial-grade release of [HiPAS GridLAB-D][HiPAS GridLAB-D] is supported and distributed by [Linux Foundation][Linux Foundation].
 
-<img src="{{ site.baseurl }}assets/images/stanford.png" alt="stanford" style="max-width: 550px;">
 
-**Read about research performed and produced by [Stanford][Stanford] experts.**
+[<img src="{{ site.baseurl }}assets/images/stanford.png" alt="stanford" style="max-width: 400px;">](https://stanford.edu)
 
-<img src="{{ site.baseurl }}assets/images/slac.png" alt="slac" style="max-width: 550px;">
+Read about research performed and produced by [Stanford][Stanford] experts.
 
-**Check out [SLAC][SLAC] for more development info on Arras Energy.**
+[<img src="{{ site.baseurl }}assets/images/slac.png" alt="slac" style="max-width: 400px;">](https://www6.slac.stanford.edu/)
 
-<img src="{{ site.baseurl }}assets/images/california.jpg" alt="california" style="max-width: 550px;">
+Check out [SLAC][SLAC] for more development info on Arras Energy.
 
-**Find out about our government funding through [California Energy Commission][California Energy Commission].**
+[<img src="{{ site.baseurl }}assets/images/california.jpg" alt="california" style="max-width: 400px;">](https://www.energy.ca.gov/)
 
-<img src="{{ site.baseurl }}assets/images/CNRA.png" alt="cnra" style="max-width: 550px;">
+Find out about our government funding through [California Energy Commission][California Energy Commission].
 
-**Discover the benefits at [California Natural Resources Agency][California Natural Resources Agency].**
+[<img src="{{ site.baseurl }}assets/images/CNRA.png" alt="cnra" style="max-width: 400px;">](https://resources.ca.gov/)
+
+Discover the benefits at [California Natural Resources Agency][California Natural Resources Agency].
+
 
 # Utility Companies
-1. Pacific Gas & Electric Co.
-2. San Diego Gas & Electric
-3. Southern California Edison Company
 
+[<img src="{{ site.baseurl }}assets/images/pge.png" alt="Pacific Gas & Electric Co." style="max-width: 400px;">][pge]
+Discover how [Pacific Gas & Electric Co.][pge] is leading in sustainable energy solutions to power a greener future.
 
-[Google]: https://google.com
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[<img src="{{ site.baseurl }}assets/images/sdge.svg" alt="San Diego Gas & Electric" style="max-width: 400px;">][sdge]
+Learn about [San Diego Gas & Electric][sdge]'s innovative initiatives towards clean energy and community engagement.
+
+[<img src="{{ site.baseurl }}assets/images/sce.png" alt="Southern California Edison Company" style="max-width: 350px;">][scec]
+
+Explore [Southern California Edison Company][scec]'s commitment to advancing renewable energy and grid modernization.
 
 [slac]: https://www6.slac.stanford.edu/
 [stanford]:   https://stanford.edu
 [Linux Foundation]: https://www.linuxfoundation.org/ 
 [HiPAS GridLAB-D]: https://github.com/arras-energy  
-[California Energy Commison]: https://www.energy.ca.gov/
-[pg&e]: https://www.pge.com/
+[California Energy Commission]: https://www.energy.ca.gov/
 [California Natural Resources Agency]: https://resources.ca.gov/
-[California Natural Resources Agency]: https://resources.ca.gov/
-[California Natural Resources Agency]: https://resources.ca.gov/
+
+[pge]: https://www.pge.com/
+[sdge]: https://www.sdge.com/
+[scec]: https://www.sce.com/
