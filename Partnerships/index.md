@@ -33,7 +33,7 @@ Uncover the vital role [California Natural Resources Agency][California Natural 
 
 # Utility Companies
 
-[<img src="{{ site.baseurl }}assets/images/pge.png" alt="Pacific Gas & Electric Co." style="max-width: 400px;">][pge]
+[<img src="{{ site.baseurl }}assets/images/PGE.png" alt="Pacific Gas & Electric Co." style="max-width: 400px;">][pge]
 Discover how [Pacific Gas & Electric Co.][pge] is leading in sustainable energy solutions to power a greener future.
 
 [<img src="{{ site.baseurl }}assets/images/sdge.svg" alt="San Diego Gas & Electric" style="max-width: 390px;">][sdge]
