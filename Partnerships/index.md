@@ -34,7 +34,7 @@ Uncover the vital role [California Natural Resources Agency][California Natural 
 ____
 
 # Utility Companies
-Arras Energy's open-source platform has gained widespread adoption among public utilities companies, making it accessible to diverse groups and driving sustainable energy solutions. 
+Arras Energy's open-source platform has gained widespread adoption among public utilities companies, making it accessible to diverse groups and driving sustainable energy solutions. See [HiPAS GridLAB-D Report][hipas] (pg. 11) for full utility list.
 
 [<img src="{{ site.baseurl }}assets/images/pge.png" alt="Pacific Gas & Electric Co." style="max-width: 410px;" />][pge]
 
@@ -54,6 +54,7 @@ Explore [Southern California Edison Company][scec]'s commitment to advancing ren
 [California Energy Commission]: https://www.energy.ca.gov/
 [California Natural Resources Agency]: https://resources.ca.gov/
 
+[hipas]: https://drive.google.com/file/d/13uk-BRT2FVdv5OuEbbtdAIB1tuZdgt1i/view
 [pge]: https://www.pge.com/
 [sdge]: https://www.sdge.com/
 [scec]: https://www.sce.com/

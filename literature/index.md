@@ -29,11 +29,7 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 - [How open source is accelerating electric sustainability - VentureBeat](https://venturebeat.com/programming-development/how-open-source-is-accelerating-electric-sustainability/)
 
 ## Learn More
-Check out the [Use-Cases][Use-Cases] for more project success stories. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
-
-## Authors
-Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
-California Energy Commission. Publication Number: CEC-500-202X-XXX.
+Check out the [Use-Cases][Use-Cases] for more project success stories. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo].
 
 [Use-Cases]: https://google.com
 [Arras Energy's GitHub repo]: https://github.com/arras-energy
