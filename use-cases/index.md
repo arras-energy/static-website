@@ -78,12 +78,13 @@ National Renewable Energy Laboratory (NREL) OpenEI database of tariffs, includin
 - Community Choice Aggregators
 
 ## Learn More
-Check out [Literature][Literature] for in-depth reports on Arras Energy and its successful use-cases. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
+Check out the [Tutorials][Tutorials] for more quick access to learning materials. Read into in-depth literature and news articles at [Reports][Reports]. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo].
 
 ## Authors
 Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
 California Energy Commission. Publication Number: CEC-500-202X-XXX.
 
-[Literature]: https://google.com
+[Tutorials]:  https://arras-energy.github.io/static-website/tutorials/
+[Reports]:   https://arras-energy.github.io/static-website/literature/ 
+[Use-Cases]:  https://arras-energy.github.io/static-website/use-cases/ 
 [Arras Energy's GitHub repo]: https://github.com/arras-energy
-[Contact Form]: https://talk.jekyllrb.com/

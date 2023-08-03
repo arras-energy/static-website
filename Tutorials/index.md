@@ -30,9 +30,9 @@ current: about
 - [Session 6](https://example.com/presentation3-slides) - Solvers 2 (Powerflow)
 
 ## Learn More
-Check out the [Literature & Reports][Literature] for in-depth reports on Arras Energy. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo]. If you have questions, you can ask them on our [Contact Form][Contact Form].
+Check out the [Reports][Reports] for in-depth literature and news articles on Arras Energy. Learn about the sucess stories of Arras Energy’s implentation for [Use-Cases][Use-Cases]. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo].
 
-[Literature]: https://google.com
+[Tutorials]:  https://arras-energy.github.io/static-website/tutorials/
+[Reports]:   https://arras-energy.github.io/static-website/literature/ 
+[Use-Cases]:  https://arras-energy.github.io/static-website/use-cases/ 
 [Arras Energy's GitHub repo]: https://github.com/arras-energy
-[Contact Form]: https://talk.jekyllrb.com/
-[Video]: http://tutorials.gridlabd.us/developer/session1.mp4 

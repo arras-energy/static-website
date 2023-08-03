@@ -39,7 +39,7 @@ Check out the [Tutorials][Tutorials] for more quick access to learning materials
 Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
 California Energy Commission. Publication Number: CEC-500-202X-XXX.
 
-[Tutorials]:   https://github.com/arras-energy
-[Reports]:   https://github.com/arras-energy
-[Contact Form]:   https://github.com/arras-energy
-[Use-Cases]:   https://github.com/arras-energy
+[Tutorials]:  https://arras-energy.github.io/static-website/tutorials/
+[Reports]:   https://arras-energy.github.io/static-website/literature/ 
+[Use-Cases]:  https://arras-energy.github.io/static-website/use-cases/  
+[Arras Energy's GitHub repo]: https://github.com/arras-energy

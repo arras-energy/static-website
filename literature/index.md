@@ -29,8 +29,9 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 - [How open source is accelerating electric sustainability - VentureBeat](https://venturebeat.com/programming-development/how-open-source-is-accelerating-electric-sustainability/)
 
 ## Learn More
-Check out the [Use-Cases][Use-Cases] for more project success stories. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo].
+Check out the [Tutorials][Tutorials] for more quick access to learning materials. Learn about the sucess stories of Arras Energy's implentation for [Use-Cases][Use-Cases]. File all bugs/feature requests at [Arras Energy's GitHub repo][Arras Energy's GitHub repo].
 
-[Use-Cases]: https://google.com
+[Tutorials]:  https://arras-energy.github.io/static-website/tutorials/
+[Reports]:   https://arras-energy.github.io/static-website/literature/ 
+[Use-Cases]:  https://arras-energy.github.io/static-website/use-cases/ 
 [Arras Energy's GitHub repo]: https://github.com/arras-energy
-[Contact Form]: https://talk.jekyllrb.com/

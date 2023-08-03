@@ -29,9 +29,9 @@ Our video tutorials and presentations serve as powerful learning tools for both 
     - News Articles
 
 ## Learn More
-Check out the [Tutorials][Tutorials] for more quick access to learning materials. Read into in-depth literature and news articles at [Reports][Reports]. If you have questions, you can ask them on [Contact Form][Contact Form] to reach a professional for more information.
+Navigate to [Tutorials][Tutorials] to get started on the learning materials. Learn about the sucess stories of Arras Energy’s implentation for [Use-Cases][Use-Cases]. Read into in-depth literature and news articles at [Reports][Reports].
 
-[Tutorials]:   https://github.com/arras-energy
-[Reports]:   https://github.com/arras-energy
-[Contact Form]:   https://github.com/arras-energy
-[Use Cases]:   https://github.com/arras-energy
+[Tutorials]:  https://arras-energy.github.io/static-website/tutorials/
+[Reports]:   https://arras-energy.github.io/static-website/literature/ 
+[Use-Cases]:  https://arras-energy.github.io/static-website/use-cases/ 
+[Arras Energy's GitHub repo]: https://github.com/arras-energy
