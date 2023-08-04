@@ -60,6 +60,9 @@ communications.
 With GRIP, electrical utility operators can reduce operating costs by optimizing grid hardening costs and lowering liability costs and shareholder exposure. These grid operator benefits will ultimately lead to lower electricity rates for customers. 
 
 ### **Electrification** ###
+
+<img src="{{ site.baseurl }}assets/images/worker.jpg" alt="Pacific Gas & Electric Co." style="max-width: 500px;" />
+
 Electrification analysis examines the impact of converting customer end-uses provided by 
 natural gas, heating oil, or other fossil-energy sources to electricity. In residential buildings, 
 the end-uses that may be converted include heating, cooking, water-heating, and clothes 
