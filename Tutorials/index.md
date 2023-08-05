@@ -1,6 +1,6 @@
 ---
 layout: page
-cover: 'assets/images/worker.jpg'
+cover: 'assets/images/dirt.jpg'
 navigation: True
 title:  "Tutorials"
 date:   2023-07-20 11:59:00 -0700
