@@ -12,6 +12,8 @@ current: about
 
 The commercial-grade high-performance version of Arras Energy software developed for four California use-cases: load electrification, distributed resource integration hosting capacity, tariff design, and distribution system resilience.
 
+<img src="{{ site.baseurl }}assets/images/metal.jpg" alt="linux" style="max-width: 500px;">
+
 These grid modernization efforts which enhance the sensing and automation capabilities of the distribution system through use of smart grid technologies are projected to accelerate the size of utility investment in the distribution system, giving rise to the following important new features:
 
 - CYME model conversion and import.
@@ -50,9 +52,9 @@ a system violation occurs somewhere within a feeder.
 ### **Grid Resilience Analysis**
 GRIP is a cutting-edge software platform designed to help electric grid operators anticipate, mitigate against, and recover from the effects of extreme weather events. 
 
-<img src="{{ site.baseurl }}assets/images/fire.jpg" alt="linux" style="max-width: 500px;">
-
 By combining state-of-the-art agent-based grid modeling tools with grid resilience metrics, GRIP can quantify the state of the grid assets before extreme events, and provide grid operators with actionable insights, such as staging maintenance crew locations, proactive pole hardening or grid topology reconfiguration, to help minimize equipment damage and revenue loss due to power outages. 
+
+<img src="{{ site.baseurl }}assets/images/fire.jpg" alt="linux" style="max-width: 550px;">
 
 The goal of
 GRIP is to assist distribution utilities in responding to grid events by:
