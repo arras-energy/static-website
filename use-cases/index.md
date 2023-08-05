@@ -35,12 +35,13 @@ Linux Foundation Energy (LF Energy) under the brand name “Arras Energy”.
 ### **Hosting Capacity Analysis**
 The goal of hosting capacity analysis is to quantify the maximum DER generation, EV charger,
 and demand response that can deployed at any location in a distribution network without
-violating distribution system voltage, current, or control limits. This process was also referred
-to as integration capacity analysis (ICA), particularly when focused only on solar resource
-integration.
+violating distribution system voltage, current, or control limits. 
 
 <img src="{{ site.baseurl }}assets/images/air.jpg" alt="linux" style="max-width: 500px;">
 
+This process was also referred
+to as integration capacity analysis (ICA), particularly when focused only on solar resource
+integration.
 ICA is achieved using a system-wide iterative power flow solution that examines
 all the combinations of loading at every customer meter in a distribution system. Distributed
 generation and DER resources are varied at customer meter, independently, to verify whether
