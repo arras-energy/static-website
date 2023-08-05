@@ -19,13 +19,13 @@ Our video tutorials and presentations serve as powerful learning tools for both 
 1. [Tutorials][Tutorials]
     - Users guide
     - Developers guide
-2. [Use Cases][Use Cases]
+2. [Use-Cases][Use-Cases]
     - ICA - solar and batteries
     - Resilience - wild fires/storms
     - Tariff - Billing (person/home)
     - Electrication - Green Planet
-3. literature & [Reports][Reports] 
-    - White Papers
+3. [Reports][Reports] 
+    - In-depth Literature
     - News Articles
 
 ## Learn More

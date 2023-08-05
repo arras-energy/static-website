@@ -1,6 +1,6 @@
 ---
 layout: page
-cover: 'assets/images/green.jpg'
+cover: 'assets/images/dirt.jpg'
 title: Partnerships
 navigation: true
 logo: 'assets/images/arras.png'
@@ -11,15 +11,15 @@ current: about
 
 To achieve our goals of making Arras Energy an open resource to all students, researchers, and developers, our team has ensured to collaborate with the best.
 
-[<img src="{{ site.baseurl }}assets/images/linux.png" alt="linux" style="max-width: 395px;">](https://www.linuxfoundation.org/)
-
-Dive into the world of open-source energy software and learn how the [Linux Foundation][Linux Foundation] drives energy industry advancements by supporting innovative projects like [HiPAS GridLAB-D][HiPAS GridLAB-D].
-
 [<img src="{{ site.baseurl }}assets/images/stanford.png" alt="stanford" style="max-width: 395px;">](https://stanford.edu)
 
 Discover groundbreaking energy research and initiatives led by [Stanford][Stanford]'s top experts, shaping the future of sustainable energy solutions.
 
-[<img src="{{ site.baseurl }}assets/images/slac.png" alt="slac" style="max-width: 410px;">](https://www6.slac.stanford.edu/)
+[<img src="{{ site.baseurl }}assets/images/linux.png" alt="linux" style="max-width: 395px;">](https://www.linuxfoundation.org/)
+
+Dive into the world of open-source energy software and learn how the [Linux Foundation][Linux Foundation] drives energy industry advancements by supporting innovative projects like [HiPAS GridLAB-D][HiPAS GridLAB-D].
+
+[<img src="{{ site.baseurl }}assets/images/slac.png" alt="slac" style="max-width: 420px;">](https://www6.slac.stanford.edu/)
 
 Explore cutting-edge research and advancements in energy science and technology at [SLAC][SLAC], a world-renowned research facility.
 

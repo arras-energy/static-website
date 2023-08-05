@@ -1,6 +1,6 @@
 ---
 layout: page
-cover: 'assets/images/simple.jpg'
+cover: 'assets/images/close.jpg'
 title: About Arras Energy
 navigation: true
 logo: 'assets/images/arras.png'

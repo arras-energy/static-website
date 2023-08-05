@@ -61,8 +61,6 @@ With GRIP, electrical utility operators can reduce operating costs by optimizing
 
 ### **Electrification** ###
 
-<img src="{{ site.baseurl }}assets/images/worker.jpg" alt="Pacific Gas & Electric Co." style="max-width: 500px;" />
-
 Electrification analysis examines the impact of converting customer end-uses provided by 
 natural gas, heating oil, or other fossil-energy sources to electricity. In residential buildings, 
 the end-uses that may be converted include heating, cooking, water-heating, and clothes 
