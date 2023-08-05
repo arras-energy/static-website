@@ -39,13 +39,19 @@ violating distribution system voltage, current, or control limits. This process 
 to as integration capacity analysis (ICA), particularly when focused only on solar resource
 integration.
 
+<img src="{{ site.baseurl }}assets/images/grass.jpg" alt="linux" style="max-width: 500px;">
+
 ICA is achieved using a system-wide iterative power flow solution that examines
 all the combinations of loading at every customer meter in a distribution system. Distributed
 generation and DER resources are varied at customer meter, independently, to verify whether
 a system violation occurs somewhere within a feeder.
 
 ### **Grid Resilience Analysis**
-GRIP is a cutting-edge software platform designed to help electric grid operators anticipate, mitigate against, and recover from the effects of extreme weather events. By combining state-of-the-art agent-based grid modeling tools with grid resilience metrics, GRIP can quantify the state of the grid assets before extreme events, and provide grid operators with actionable insights, such as staging maintenance crew locations, proactive pole hardening or grid topology reconfiguration, to help minimize equipment damage and revenue loss due to power outages. 
+GRIP is a cutting-edge software platform designed to help electric grid operators anticipate, mitigate against, and recover from the effects of extreme weather events. 
+
+<img src="{{ site.baseurl }}assets/images/fire.jpg" alt="linux" style="max-width: 500px;">
+
+By combining state-of-the-art agent-based grid modeling tools with grid resilience metrics, GRIP can quantify the state of the grid assets before extreme events, and provide grid operators with actionable insights, such as staging maintenance crew locations, proactive pole hardening or grid topology reconfiguration, to help minimize equipment damage and revenue loss due to power outages. 
 
 The goal of
 GRIP is to assist distribution utilities in responding to grid events by:
