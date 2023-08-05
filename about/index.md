@@ -30,11 +30,11 @@ more than 99% reductions in runtime and computing costs.
 
 Arras delivers an open and developer-friendly framework for addressing important use-cases identified by key industry stakeholders. These use-cases include (1) distributed energy resource hosting capacity, (2) tariff design, (3) end-use load electrification, (4) extreme weather resilience, (5) wildfire safety and protection, (6) peer-to-peer energy, (7) advanced load modeling and forecasting, and (8) high-performance scenario planning at scale to better plan for increasing uncertainty with DER integration.
 
+<img src="{{ site.baseurl }}assets/images/dirt.jpg" alt="linux" style="max-width: 500px;">
+
 Arras addresses the needs of key stakeholders such as power system researchers, planners, operators, policy-makers and regulators. Specifically, this software provides an open-source advanced power system simulation engine capable of performing very large scale simulations of distribution systems that include a large fraction of so-called smart grid technology and distributed energy resources that the key stakeholders cannot obtain and/or afford to license from existing software vendors. The goal is for these open source tools to continue to gain ongoing support to possibly open the idea of replacing legacy license tools.
 
 ## Energy Efficiency
-
-<img src="{{ site.baseurl }}assets/images/dirt.jpg" alt="linux" style="max-width: 500px;">
 
 In 2018, the California Energy Commission authorized $6M of EPIC program funding for three open-source projects for SLAC National Accelerator Laboratory to create a commercially viable version of GridLAB-D’s back-end simulation engine and Hitachi America Labs to create a front-end for users in California’s three largest utilities. This push for electrical efficiency include all users for the tool, from students, researchers, utilities (investor owned and publicly owned), regulators, developers, etc. The front-end software is called GLOW (which stands for GridLAB-D Open Workspace), and the back-end software, which was called HiPAS GridLAB-D, now Arras, as well as OpenFIDO which includes the pipeline tools that use Arras for multifunctional purposes.
 
