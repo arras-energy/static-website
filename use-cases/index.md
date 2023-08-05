@@ -39,7 +39,7 @@ violating distribution system voltage, current, or control limits. This process 
 to as integration capacity analysis (ICA), particularly when focused only on solar resource
 integration.
 
-<img src="{{ site.baseurl }}assets/images/grass.jpg" alt="linux" style="max-width: 500px;">
+<img src="{{ site.baseurl }}assets/images/air.jpg" alt="linux" style="max-width: 500px;">
 
 ICA is achieved using a system-wide iterative power flow solution that examines
 all the combinations of loading at every customer meter in a distribution system. Distributed
