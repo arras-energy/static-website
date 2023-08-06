@@ -55,7 +55,7 @@ GRIP is a cutting-edge software platform designed to help electric grid operator
 
 By combining state-of-the-art agent-based grid modeling tools with grid resilience metrics, GRIP can quantify the state of the grid assets before extreme events, and provide grid operators with actionable insights, such as staging maintenance crew locations, proactive pole hardening or grid topology reconfiguration, to help minimize equipment damage and revenue loss due to power outages. 
 
-<img src="{{ site.baseurl }}assets/images/fire.jpg" alt="linux" style="max-width: 550px;">
+<img src="{{ site.baseurl }}assets/images/fire.jpg" alt="linux" style="max-width: 500px;">
 
 The goal of
 GRIP is to assist distribution utilities in responding to grid events by:
