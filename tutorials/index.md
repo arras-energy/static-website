@@ -27,7 +27,7 @@ current: about
 - [Session 5](http://tutorials.gridlabd.us/developer/session5.mp4){:target="_blank"} - Modules and Classes
 
 - [Session 6](http://tutorials.gridlabd.us/developer/session6-1.mp4){:target="_blank"} - Solvers 1 (Core Engine and Thermal)
-- [Session 6](hhttp://tutorials.gridlabd.us/developer/session6-2.mp4){:target="_blank"} - Solvers 2 (Powerflow)
+- [Session 6](http://tutorials.gridlabd.us/developer/session6-2.mp4){:target="_blank"} - Solvers 2 (Powerflow)
 
 ## Learn More
 Check out the [Reports](https://arras-energy.github.io/static-website/literature/) for in-depth literature and news articles on Arras Energy. Learn about the sucess stories of Arras Energy’s implentation for [Use-Cases](https://arras-energy.github.io/static-website/use-cases/). File all bugs/feature requests at [Arras Energy's GitHub repo](https://github.com/arras-energy).
