@@ -1,35 +1,37 @@
 ---
 layout: page
-cover: 'assets/images/2miles.jpg'
+cover: 'assets/images/station.jpg'
 navigation: True
-title:  "Resources"
+title:  "Getting Started"
 date:   2023-07-20 11:59:00 -0700
-logo: 'assets/images/logo.png'
+logo: 'assets/images/arras.png'
 current: about
 ---
+# Are You A User or Developer?
+Our video tutorials and presentations serve as powerful learning tools for both beginning users and experienced developers alike.
 
-# Getting Started - Are You A User or Developer?
+## Choosing Your Learning Path
+**User Guide:** For beginners, our video tutorials provide a visual and interactive way to learn how to use the software through step-by-step instructions.
 
-All content in this page:
-1. Tutorials
+**Developer Guide:** For experienced developers, we offer both video tutorials and in-depth lecture slides enabling the implentation of advanced techniques and allow you to stay updated with the latest industry practices.
+
+## All Content In This Section:
+1. [Tutorials][Tutorials]
     - Users guide
     - Developers guide
-2. Use Cases
+2. [Use-Cases][Use-Cases]
     - ICA - solar and batteries
     - Resilience - wild fires/storms
     - Tariff - Billing (person/home)
     - Electrication - Green Planet
-3. Liturature & Reports 
-    - White Papers
+3. [Reports][Reports] 
+    - In-depth Literature
     - News Articles
 
 ## Learn More
-Check out the [Google][Google] for more info on Arras Energy. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Navigate to [Tutorials](https://arras-energy.github.io/static-website/tutorials/) to get started on the learning materials. Learn about the sucess stories of Arras Energy’s implentation for [Use-Cases](https://arras-energy.github.io/static-website/use-cases/). Read into in-depth literature and news articles at [Reports](https://arras-energy.github.io/static-website/literature/).
 
-## Authors
-Chassin, David P., Alyona I. Teyber, Elizabeth Buechler, Duncan Ragsdale, Matthew Tisdale. 2023. HiPAS GridLAB-D: High-Performance Agent-based Simulation with GridLAB-D.
-California Energy Commission. Publication Number: CEC-500-202X-XXX.
-
-[Google]: https://google.com
-[Arras Energy's GitHub repo]:   https://github.com/arras-energy
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Tutorials]:  https://arras-energy.github.io/static-website/tutorials/
+[Reports]:   https://arras-energy.github.io/static-website/literature/ 
+[Use-Cases]:  https://arras-energy.github.io/static-website/use-cases/ 
+[Arras Energy's GitHub repo]: https://github.com/arras-energy

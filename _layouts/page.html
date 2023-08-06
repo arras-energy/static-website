@@ -12,7 +12,7 @@ class: 'page-template'
 
 <header class="main-header post-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}){% else %}no-cover{% endif %}">
     <nav class="main-nav {% if page.cover %}overlay{% endif %} clearfix">
-        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img style="position: sticky;" src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" style="width: 125px; height: 45px;"/></a>{% endif %}
         {% if page.navigation %}
             <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
         {% endif %}
@@ -34,3 +34,20 @@ class: 'page-template'
     </article>
 </main>
 <!-- /post -->
+
+<footer style="background-color: rgba(0, 0, 0, 0.923); color: white; padding: 20px;">
+    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+      <div style="margin-right: 60px;">
+        <img src="{{ site.baseurl }}assets/images/doe.png" alt="U.S. Department of Energy" style="max-width: 370px; margin-top: 10px;">
+      </div>
+      <div style="margin-right: 60px;">
+        <img src="{{ site.baseurl }}assets/images/linuxwhite.png" alt="Linux Foundation" style="max-width: 200px; margin-top: 0px;">
+      </div>
+      <div>
+        <img src="{{ site.baseurl }}assets/images/whiteslac.webp" alt="SLAC National Accelerator Laboratory" style="max-width: 350px; margin-top: 0px;">
+      </div>
+    </div>
+    <p style="text-align: center;">Copyright &copy; 2023 Linux Foundation®. All rights reserved.</p>
+  </footer>
+  
+  
