@@ -12,7 +12,7 @@ current: about
 
 The commercial-grade high-performance version of Arras Energy software developed for four California use-cases: load electrification, distributed resource integration hosting capacity, tariff design, and distribution system resilience.
 
-<img src="{{ site.baseurl }}assets/images/metal.jpg" alt="linux" style="max-width: 500px;">
+<img src="{{ site.baseurl }}assets/images/metal.jpg" alt="linux" style="max-width: 520px;">
 
 These grid modernization efforts which enhance the sensing and automation capabilities of the distribution system through use of smart grid technologies are projected to accelerate the size of utility investment in the distribution system, giving rise to the following important new features:
 
@@ -39,7 +39,7 @@ The goal of hosting capacity analysis is to quantify the maximum DER generation,
 and demand response that can deployed at any location in a distribution network without
 violating distribution system voltage, current, or control limits. 
 
-<img src="{{ site.baseurl }}assets/images/air.jpg" alt="linux" style="max-width: 500px;">
+<img src="{{ site.baseurl }}assets/images/air.jpg" alt="linux" style="max-width: 520px;">
 
 This process was also referred
 to as integration capacity analysis (ICA), particularly when focused only on solar resource
@@ -55,7 +55,7 @@ GRIP is a cutting-edge software platform designed to help electric grid operator
 
 By combining state-of-the-art agent-based grid modeling tools with grid resilience metrics, GRIP can quantify the state of the grid assets before extreme events, and provide grid operators with actionable insights, such as staging maintenance crew locations, proactive pole hardening or grid topology reconfiguration, to help minimize equipment damage and revenue loss due to power outages. 
 
-<img src="{{ site.baseurl }}assets/images/fire.jpg" alt="linux" style="max-width: 500px;">
+<img src="{{ site.baseurl }}assets/images/fire.jpg" alt="linux" style="max-width: 520px;">
 
 The goal of
 GRIP is to assist distribution utilities in responding to grid events by:
