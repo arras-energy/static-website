@@ -21,6 +21,7 @@ Welcome to our diverse resource page, filled with curated literature, reports, a
 ## Websites
 - [Linux Foundation - Arras Energy](https://lfenergy.org/projects/arras/){:target="_blank"}
 - [GISMo - Grid Integrated Systems and Mobility](https://gismo.slac.stanford.edu/){:target="_blank"}
+- [HiPAS GridLAB-D - Download Project](https://www.energizeinnovation.fund/projects/hipas-gridlab-d-high-performance-agent-based-simulation-using-gridlab-d){:target="_blank"}
 
 ## Articles
 

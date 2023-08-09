@@ -1,3 +1,72 @@
+# Arras Energy
+
+A simulation platform for future electricity distribution power systems.
+
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
+
+Arras Energy is the commercial-grade release of [HiPAS GridLAB-](https://www.energizeinnovation.fund/projects/hipas-gridlab-d-high-performance-agent-based-simulation-using-gridlab-d){:target="_blank"} supported and distributed by [Linux Foundation Energy](https://lfenergy.org/){:target="_blank"}.
+
+
+## Features
+
+This website contains user tutorials, resources, reports, and use cases. 
+
+## Installation
+
+[Explain how to install or set up the project. Include any prerequisites, dependencies, or environment setup instructions.]
+
+## Usage
+
+[Provide examples or instructions on how to use the project. This could include code snippets, configuration steps, and usage scenarios.]
+
+## Contributing
+
+[Explain how others can contribute to the project. Include guidelines for submitting issues, feature requests, and pull requests.]
+
+## License
+
+[Specify the project's license. For example, MIT, Apache 2.0, etc. Include any necessary license notices.]
+
+## Credits
+
+[Give credit to individuals, libraries, or resources that have contributed to the project.]
+
+## Contact
+
+[Provide a way for users to contact the project maintainers or authors. This could be an email address, social media links, or a link to a discussion forum.]
+
+## Acknowledgments
+
+[Optional section to acknowledge inspiration, guidance, or references that helped during the project's development.]
+
+## FAQs
+
+[Include frequently asked questions and their answers if applicable.]
+
+## Changelog
+
+[Keep track of changes, updates, and releases in this section.]
+
+This outline provides a structured format for a GitHub README file, helping users understand the purpose of your project, how to use it, and how to contribute. Customize the sections according to the specific details and needs of your project. Remember that a well-written README can greatly enhance the visibility and usability of your project on GitHub.
+
+
+
+
+______________________________
+
+
+
+
+
 ## Jasper
 
 [![Build Status](https://github.com/jekyllt/jasper/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/jasper/actions/workflows/jekyll_build.yml)

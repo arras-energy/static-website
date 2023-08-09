@@ -10,7 +10,7 @@ current: about
 
 # A simulation platform for future electricity distribution power systems.
 
-HiPAS GridLab-D, rebranded as Arras Energy, has emerged as an important open-source tool for utilities, researchers, and technology vendors in the development, maturation, and deployment of smart-grid and renewable energy resource integration technology. 
+Arras Energy, previously known as [HiPAS GridLab-D](https://www.energizeinnovation.fund/projects/hipas-gridlab-d-high-performance-agent-based-simulation-using-gridlab-d){:target="_blank"}, has emerged as an important open-source tool for utilities, researchers, and technology vendors in the development, maturation, and deployment of smart-grid and renewable energy resource integration technology. 
 
 ## Background
 
