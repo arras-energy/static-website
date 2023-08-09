@@ -12,26 +12,42 @@ Arras Energy is a robust open-source simulation platform designed to address the
 ## Getting Started
 
 Whether you are a user or a developer, Arras Energy offers comprehensive resources to facilitate your journey into the world of advanced electricity distribution power systems simulation. This website hosts the following:
-- **Tutorials:** [Tutorials](https://arras-energy.github.io/static-website/tutorials/) Learn the ins and outs of Arras Energy with our curated collection of video presentations and slide guides. Whether you're an entry-level user or an adept developer, our resources cater to all skill levels.
-- **Use-Cases:** [Use-Cases](https://arras-energy.github.io/static-website/use-cases/) Explore the success stories of Arras Energy's implementation in real-world scenarios. Dive into use-cases spanning diverse areas such as solar and batteries (ICA), resilience in the face of wildfires and storms, innovative tariff and billing structures, and the realization of a greener planet through electrification.
-- **Reports:** [Reports](https://arras-energy.github.io/static-website/literature/) Delve into in-depth literature and stay updated with news articles related to the advancements and applications of Arras Energy in the field of electricity distribution power systems.
+- **[Tutorials](https://arras-energy.github.io/static-website/tutorials/)** Learn the ins and outs of Arras Energy with our curated collection of video presentations and slide guides. Whether you're an entry-level user or an adept developer, our resources cater to all skill levels.
+- **[Use-Cases](https://arras-energy.github.io/static-website/use-cases/)** Explore the success stories of Arras Energy's implementation in real-world scenarios. Dive into use-cases spanning diverse areas such as solar and batteries (ICA), resilience in the face of wildfires and storms, innovative tariff and billing structures, and the realization of a greener planet through electrification.
+- **[Reports](https://arras-energy.github.io/static-website/literature/)** Delve into in-depth literature and stay updated with news articles related to the advancements and applications of Arras Energy in the field of electricity distribution power systems.
 
-### User Guide
-For newcomers, our user-friendly video tutorials provide an immersive and interactive learning experience. Step-by-step instructions guide you through using the software effectively.
+## Run on GitHub
+You can run Arras Energy with GitHub Actions using the template https://github.com/gridlabd-tutorials/.new_project. The simulation results are stored in a downloadable file that can accessed from the Actions tab in your GitHub project. A tutorial for using Arras Energy with GitHub is available at https://github.com/gridlabd-tutorials.
 
-### Developer Guide
-Experienced developers seeking to harness advanced techniques will find value in our comprehensive developer guide. This resource offers both video tutorials and in-depth lecture slides, enabling you to stay updated with industry best practices and implement sophisticated solutions.
+## Run on Docker
+docker run -it -v $PWD:/model slacgismo/gridlabd:latest gridlabd -W /model [LOADOPTIONS] [FILENAME.EXT] [RUNOPTIONS]
+See [Dockerhub HiPAS](https://hub.docker.com/r/hipas/gridlabd/tags) repositories for a list of available images.
 
-## Learning Paths and Resources
+## Run on AWS
+1. Sign into your AWS console.
+2. Launch an EC2 instance.
+3. Search the community AMI for images starting with gridlabd in the us-west-1 (N. California) region.
+4. Choose an instance type with sufficient memory, e.g., >4GB.
+5. Download and save your keypair.
+6. Launch the instance.
+7. Connect to the instance.
+8. Download your model into the instance, e.g., from GitHub.
+9. Run the simulation using the usual command line options.
+10. Save the results, e.g., to GitHub.
 
-### Tutorials
-Learn the ins and outs of Arras Energy with our curated collection of video presentations and slide guides. Whether you're an entry-level user or an adept developer, our resources cater to all skill levels.
+You can also start the instance from the command line:
+aws ec2 run-instances --image-id AMINAME --count 1 --instance-type INSTANCETYPE --key-name KEYPAIRNAME --security-group-ids SECURITYGROUPID --subnet-id SUBNETID
 
-### Use-Cases
-Explore the success stories of Arras Energy's implementation in real-world scenarios. Dive into use-cases spanning diverse areas such as solar and batteries (ICA), resilience in the face of wildfires and storms, innovative tariff and billing structures, and the realization of a greener planet through electrification.
+You can search the [AWS AMI Catalog](https://us-west-1.console.aws.amazon.com/ec2/home?AMICatalog%3A=&region=us-west-1#AMICatalog:) for Community AMIs matching "Arras Energy HiPAS GridLAB-D" in the us-west-1 region. The version number will be included in the name.
 
-### Reports
-Delve into in-depth literature and stay updated with news articles related to the advancements and applications of Arras Energy in the field of electricity distribution power systems.
+## Download on Mac, Windows WSL, or Ubuntu Linux
+curl -sL https://install.gridlabd.us/install.sh | [sudo] sh
+
+## Build your own
+git clone https://source.gridlabd.us/ [-b BRANCH] gridlabd
+cd gridlabd
+./setup.sh --local
+./build.sh --system --validate
 
 ## Learn More
 
