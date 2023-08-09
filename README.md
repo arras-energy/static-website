@@ -1,63 +1,48 @@
-# Arras Energy
+# Arras Energy - Simulation Platform for Future Electricity Distribution Power Systems
 
-A simulation platform for future electricity distribution power systems.
+Arras Energy, formerly known as HiPAS GridLab-D, is a robust open-source simulation platform designed to address the evolving challenges of electricity distribution power systems in the context of smart grids and renewable energy integration. This platform serves as a valuable tool for utilities, researchers, and technology vendors, enabling them to develop, refine, and deploy advanced solutions in the domain of smart-grid technologies and renewable energy integration.
 
-## Table of Contents
+## Background
 
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+Originating from the collaborative efforts of a team of researchers at the Pacific Northwest National Laboratory, GridLAB-D was initially conceived to tackle emerging engineering challenges within the electric power system, driven by the imperatives of grid modernization and responses to climate change. The platform's first release took place in 2008, marking the beginning of its journey.
 
-## About
+Since its inception, GridLAB-D has played a pivotal role in the electric power sector, forming the cornerstone of essential studies commissioned by the US Department of Energy. Notable contributions include studies in conservation voltage reduction, dynamic pricing, peer-to-peer energy exchange, and fault-induced delayed voltage recovery.
 
-Arras Energy is the commercial-grade release of [HiPAS GridLAB-](https://www.energizeinnovation.fund/projects/hipas-gridlab-d-high-performance-agent-based-simulation-using-gridlab-d){:target="_blank"} supported and distributed by [Linux Foundation Energy](https://lfenergy.org/){:target="_blank"}.
+**Key Achievements:**
+- 97.5% success rate in automatically converting Cyme models.
+- Simulation speed tests revealing speeds approximately 180 times faster than the original DOE version.
+- Substantial reductions in cloud operating costs, including a remarkable 94% decrease in storage expenses and more than 99% reductions in runtime and computing costs.
 
+## Getting Started
 
-## Features
+Whether you are a user or a developer, Arras Energy offers comprehensive resources to facilitate your journey into the world of advanced electricity distribution power systems simulation.
 
-This website contains user tutorials, resources, reports, and use cases. 
+### User Guide
+For newcomers, our user-friendly video tutorials provide an immersive and interactive learning experience. Step-by-step instructions guide you through using the software effectively.
 
-## Installation
+### Developer Guide
+Experienced developers seeking to harness advanced techniques will find value in our comprehensive developer guide. This resource offers both video tutorials and in-depth lecture slides, enabling you to stay updated with industry best practices and implement sophisticated solutions.
 
-[Explain how to install or set up the project. Include any prerequisites, dependencies, or environment setup instructions.]
+## Learning Paths and Resources
 
-## Usage
+### Tutorials
+Learn the ins and outs of Arras Energy with our curated collection of video presentations and slide guides. Whether you're an entry-level user or an adept developer, our resources cater to all skill levels.
 
-[Provide examples or instructions on how to use the project. This could include code snippets, configuration steps, and usage scenarios.]
+### Use-Cases
+Explore the success stories of Arras Energy's implementation in real-world scenarios. Dive into use-cases spanning diverse areas such as solar and batteries (ICA), resilience in the face of wildfires and storms, innovative tariff and billing structures, and the realization of a greener planet through electrification.
 
-## Contributing
+### Reports
+Delve into in-depth literature and stay updated with news articles related to the advancements and applications of Arras Energy in the field of electricity distribution power systems.
 
-[Explain how others can contribute to the project. Include guidelines for submitting issues, feature requests, and pull requests.]
+## Learn More
 
-## License
+Begin your journey by navigating to our Tutorials section, where you can access comprehensive learning materials. Uncover the success stories of Arras Energy's implementation in various Use-Cases. For a deeper understanding, explore our Reports section, offering in-depth literature and relevant news articles.
 
-[Specify the project's license. For example, MIT, Apache 2.0, etc. Include any necessary license notices.]
+**Tutorials:** [Tutorials](#tutorials)
+**Use-Cases:** [Use-Cases](#use-cases)
+**Reports:** [Reports](#reports)
 
-## Credits
-
-[Give credit to individuals, libraries, or resources that have contributed to the project.]
-
-## Contact
-
-[Provide a way for users to contact the project maintainers or authors. This could be an email address, social media links, or a link to a discussion forum.]
-
-## Acknowledgments
-
-[Optional section to acknowledge inspiration, guidance, or references that helped during the project's development.]
-
-## FAQs
-
-[Include frequently asked questions and their answers if applicable.]
-
-## Changelog
-
-[Keep track of changes, updates, and releases in this section.]
-
-This outline provides a structured format for a GitHub README file, helping users understand the purpose of your project, how to use it, and how to contribute. Customize the sections according to the specific details and needs of your project. Remember that a well-written README can greatly enhance the visibility and usability of your project on GitHub.
-
+Start learning and implementing with Arras Energy today, and be part of shaping the future of electricity distribution power systems!
 
 
 
