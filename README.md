@@ -1,12 +1,8 @@
 # Arras Energy - Simulation Platform for Future Electricity Distribution Power Systems
 
-Arras Energy, formerly known as HiPAS GridLab-D, is a robust open-source simulation platform designed to address the evolving challenges of electricity distribution power systems in the context of smart grids and renewable energy integration. This platform serves as a valuable tool for utilities, researchers, and technology vendors, enabling them to develop, refine, and deploy advanced solutions in the domain of smart-grid technologies and renewable energy integration.
+This is the public website for commerical release of Arras Energy, formerly known as HiPAS GridLab-D.
 
-## Background
-
-Originating from the collaborative efforts of a team of researchers at the Pacific Northwest National Laboratory, GridLAB-D was initially conceived to tackle emerging engineering challenges within the electric power system, driven by the imperatives of grid modernization and responses to climate change. The platform's first release took place in 2008, marking the beginning of its journey.
-
-Since its inception, GridLAB-D has played a pivotal role in the electric power sector, forming the cornerstone of essential studies commissioned by the US Department of Energy. Notable contributions include studies in conservation voltage reduction, dynamic pricing, peer-to-peer energy exchange, and fault-induced delayed voltage recovery.
+Arras Energy is a robust open-source simulation platform designed to address the evolving challenges of electricity distribution power systems in the context of smart grids and renewable energy integration. This platform serves as a valuable tool for utilities, researchers, and technology vendors, enabling them to develop, refine, and deploy advanced solutions in the domain of smart-grid technologies and renewable energy integration.
 
 **Key Achievements:**
 - 97.5% success rate in automatically converting Cyme models.
@@ -15,7 +11,10 @@ Since its inception, GridLAB-D has played a pivotal role in the electric power s
 
 ## Getting Started
 
-Whether you are a user or a developer, Arras Energy offers comprehensive resources to facilitate your journey into the world of advanced electricity distribution power systems simulation.
+Whether you are a user or a developer, Arras Energy offers comprehensive resources to facilitate your journey into the world of advanced electricity distribution power systems simulation. This website hosts the following:
+- **Tutorials:** [Tutorials](https://arras-energy.github.io/static-website/tutorials/) Learn the ins and outs of Arras Energy with our curated collection of video presentations and slide guides. Whether you're an entry-level user or an adept developer, our resources cater to all skill levels.
+- **Use-Cases:** [Use-Cases](https://arras-energy.github.io/static-website/use-cases/) Explore the success stories of Arras Energy's implementation in real-world scenarios. Dive into use-cases spanning diverse areas such as solar and batteries (ICA), resilience in the face of wildfires and storms, innovative tariff and billing structures, and the realization of a greener planet through electrification.
+- **Reports:** [Reports](https://arras-energy.github.io/static-website/literature/) Delve into in-depth literature and stay updated with news articles related to the advancements and applications of Arras Energy in the field of electricity distribution power systems.
 
 ### User Guide
 For newcomers, our user-friendly video tutorials provide an immersive and interactive learning experience. Step-by-step instructions guide you through using the software effectively.
@@ -38,10 +37,6 @@ Delve into in-depth literature and stay updated with news articles related to th
 
 Begin your journey by navigating to our Tutorials section, where you can access comprehensive learning materials. Uncover the success stories of Arras Energy's implementation in various Use-Cases. For a deeper understanding, explore our Reports section, offering in-depth literature and relevant news articles.
 
-**Tutorials:** [Tutorials](#tutorials)
-**Use-Cases:** [Use-Cases](#use-cases)
-**Reports:** [Reports](#reports)
-
 Start learning and implementing with Arras Energy today, and be part of shaping the future of electricity distribution power systems!
 
 
@@ -63,35 +58,6 @@ This is a port of Ghost's default theme [Casper](https://github.com/tryghost/cas
 You might well ask at this point why bother making a new Casper's clone?
 Although this is inspired by Kasper, there are several **additional** features which make this port closer
 to the original theme.
-
-**New:** Check out **[Jasper2](https://github.com/jekyllt/jasper2)**, a new port of Casper version 2!
-
-## Live demo
-
-[Jasper Live Demo](https://jekyllt.github.io/jasper)
-
-[Casper's Original Here](https://demo.ghost.io)
-
-
-## Screenshots
-
-**Home page**
-![home page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen1.png)
-
-**Post page**
-![post page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen2.png)
-
-**Author page**
-![author page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen3.png)
-
-**Related posts page**
-![tag page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen4.png)
-
-**Tags page with opened sidebar**
-![sidebar page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen5.png)
-
-**404 page**
-![related page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen6.png)
 
 ## Jasper theme includes
 
