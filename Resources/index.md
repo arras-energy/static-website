@@ -20,9 +20,9 @@ Our video tutorials and presentations serve as powerful learning tools for both 
     - Users guide
     - Developers guide
 2. [Use-Cases][Use-Cases]
-    - ICA - solar and batteries
-    - Resilience - wild fires/storms
-    - Tariff - Billing (person/home)
+    - ICA - Solar and Batteries
+    - Resilience - Extreme Weather
+    - Tariff - Billing
     - Electrication - Green Planet
 3. [Reports][Reports] 
     - In-depth Literature

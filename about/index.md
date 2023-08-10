@@ -10,13 +10,13 @@ current: about
 
 # A simulation platform for future electricity distribution power systems.
 
-HiPAS GridLab-D, rebranded as Arras Energy, has emerged as an important open-source tool for utilities, researchers, and technology vendors in the development, maturation, and deployment of smart-grid and renewable energy resource integration technology. 
+Arras Energy, previously known as [HiPAS GridLab-D](https://www.energizeinnovation.fund/projects/hipas-gridlab-d-high-performance-agent-based-simulation-using-gridlab-d){:target="_blank"}, has emerged as an important open-source tool for utilities, researchers, and technology vendors in the development, maturation, and deployment of smart-grid and renewable energy resource integration technology. 
 
 ## Background
 
 GridLAB-D was originally developed for the US Department of Energy by a team of researchers at Pacific Northwest National Laboratory to address emerging electric power system engineering challenges associated with grid modernization and climate change response, mitigation, and adaptation. 
 
-<img src="{{ site.baseurl }}assets/images/2workers.jpg" alt="linux" style="max-width: 500px;">
+<img src="{{ site.baseurl }}assets/images/2workers.jpg" alt="linux" style="max-width: 520px;">
 
 The first release of GridLAB-D was in 2008. Since then it has been used by the US Department of Energy for key electric power system studies, including conservation voltage reduction, dynamic pricing, peer-to-peer energy exchange, and fault-induced delayed voltage recovery.
 
@@ -30,7 +30,7 @@ more than 99% reductions in runtime and computing costs.
 
 Arras delivers an open and developer-friendly framework for addressing important use-cases identified by key industry stakeholders. These use-cases include (1) distributed energy resource hosting capacity, (2) tariff design, (3) end-use load electrification, (4) extreme weather resilience, (5) wildfire safety and protection, (6) peer-to-peer energy, (7) advanced load modeling and forecasting, and (8) high-performance scenario planning at scale to better plan for increasing uncertainty with DER integration.
 
-<img src="{{ site.baseurl }}assets/images/dirt.jpg" alt="linux" style="max-width: 500px;">
+<img src="{{ site.baseurl }}assets/images/dirt.jpg" alt="linux" style="max-width: 520px;">
 
 Arras addresses the needs of key stakeholders such as power system researchers, planners, operators, policy-makers and regulators. Specifically, this software provides an open-source advanced power system simulation engine capable of performing very large scale simulations of distribution systems that include a large fraction of so-called smart grid technology and distributed energy resources that the key stakeholders cannot obtain and/or afford to license from existing software vendors. The goal is for these open source tools to continue to gain ongoing support to possibly open the idea of replacing legacy license tools.
 
