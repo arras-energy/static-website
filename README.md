@@ -1,12 +1,23 @@
 # Arras Energy - Public Website
 This is the public website for commerical release of Arras Energy, formerly known as HiPAS GridLab-D.
 
-Arras Energy is a robust open-source simulation platform designed to address the evolving challenges of electricity distribution power systems in the context of smart grids and renewable energy integration. This platform serves as a valuable tool for utilities, researchers, and technology vendors, enabling them to develop, refine, and deploy advanced solutions in the domain of smart-grid technologies and renewable energy integration.
+**Home page**
+![home page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen1.png)
 
-**Key Achievements:**
-- 97.5% success rate in automatically converting Cyme models.
-- Simulation speed tests revealing speeds approximately 180 times faster than the original DOE version.
-- Substantial reductions in cloud operating costs, including a remarkable 94% decrease in storage expenses and more than 99% reductions in runtime and computing costs.
+**Post page**
+![post page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen2.png)
+
+**Author page**
+![author page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen3.png)
+
+**Related posts page**
+![tag page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen4.png)
+
+**Tags page with opened sidebar**
+![sidebar page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen5.png)
+
+**404 page**
+![related page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen6.png)
 
 ## Getting Started
 
