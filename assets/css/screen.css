@@ -582,7 +582,7 @@ body.nav-opened .site-wrapper {
     display: table;
     width: 100%;
     height: 100vh;
-    margin-bottom: 5rem;
+    /* margin-bottom: 5rem; */
     text-align: center;
     background: #222 no-repeat center center;
     background-size: cover;
@@ -718,9 +718,14 @@ body.nav-opened .nav {
     font-size: 1.2rem;
     vertical-align: bottom;
     color: #B8B8B8;
-    content: counter(item, lower-roman);
+    content: counter(item, upper-roman);
     counter-increment: item;
 }
+
+.nested li:before {
+    content: counter(item, lower-roman);
+}
+
 .nav li {
     margin: 0;
 }
@@ -735,7 +740,7 @@ body.nav-opened .nav {
     text-overflow: ellipsis;
 }
 .nav li a:after {
-    display: inline-block;
+    display: none;
     content: " .......................................................";
     color: rgba(255,255,255,0.2);
     margin-left: 5px;
@@ -993,7 +998,8 @@ body.nav-opened .nav {
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     position: relative;
-    width: 40%;
+    width: 100%;
+    max-width: 70ch;
     
     margin: 4rem auto;
     padding-bottom: 4rem;
@@ -1180,7 +1186,7 @@ body.page-template .post-title {
        in the opposite direction by half its own width.
        Works for images that are larger than their containers. */
     position: relative;
-    left: 50%;
+    left: 45%;
     -webkit-transform: translateX(-50%); /* for Safari and iOS */
     -ms-transform: translateX(-50%); /* for IE9 */
     transform: translateX(-50%);
@@ -1717,11 +1723,12 @@ body.page-template .post-title {
 
 .site-footer {
     position: relative;
-    margin: 8rem 0 0 0;
+    /* margin: 8rem 0 0 0; */
     padding: 1rem 15px;
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
+    display:none;
     color: #BBC7CC;
 }
 
