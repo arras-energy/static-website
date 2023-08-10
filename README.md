@@ -9,12 +9,18 @@ ________
 **Home Page**
 <img width="1432" alt="Home Page" src="https://github.com/arras-energy/static-website/assets/128001866/b40d2a20-5089-4731-b540-3d0726cb59d9">
 
+<br/>
+
 **Content Page**
 
 <img width="1429" alt="Content Page" src="https://github.com/arras-energy/static-website/assets/128001866/20141b34-05ae-422d-9f4a-bdf2348635a0">
 
+<br/>
+
 **Menu Bar**
 <img width="1427" alt="Menu Bar" src="https://github.com/arras-energy/static-website/assets/128001866/9fd84fe4-1a92-4340-ae67-267714adff1a">
+
+<br/>
 
 ## Getting Started
 
