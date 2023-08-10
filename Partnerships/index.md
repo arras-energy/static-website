@@ -40,22 +40,22 @@ Delve into groundbreaking research and innovations in energy at [Pacific Northwe
 
 [<img src="{{ site.baseurl }}assets/images/hitachi.png" alt="hitachi" style="max-width: 360px;">][hitachi]{:target="_blank"}
 
-Read into Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html), where innovation meets environmental stewardship.
+Read about Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html), where innovation meets environmental stewardship.
 
 ____
 
 # Utility Companies
 Arras Energy's open-source platform has gained widespread adoption among public utilities companies, making it accessible to diverse groups and driving sustainable energy solutions. See [HiPAS GridLAB-D Report][hipas]{:target="_blank"} (pg. 11) for full utility list.
 
-[<img src="{{ site.baseurl }}assets/images/pge.png" alt="Pacific Gas & Electric Co." style="max-width: 410px;" />][pge]{:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/pge.png" alt="Pacific Gas & Electric Co." style="max-width: 400px;" />][pge]{:target="_blank"}
 
 Discover how [Pacific Gas & Electric Co.][pge]{:target="_blank"} is leading in sustainable energy solutions to power a greener future.
 
-[<img src="{{ site.baseurl }}assets/images/sdge.svg" alt="San Diego Gas & Electric" style="max-width: 390px;">][sdge]{:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/sdge.svg" alt="San Diego Gas & Electric" style="max-width: 395px;">][sdge]{:target="_blank"}
 
 Learn about [San Diego Gas & Electric][sdge]{:target="_blank"}'s innovative initiatives towards clean energy and community engagement.
 
-[<img src="{{ site.baseurl }}assets/images/sce.png" alt="Southern California Edison Company" style="max-width: 350px;">][scec]{:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/sce.png" alt="Southern California Edison Company" style="max-width: 360px;">][scec]{:target="_blank"}
 
 Explore [Southern California Edison Company][scec]{:target="_blank"}'s commitment to advancing renewable energy and grid modernization.
 
@@ -63,7 +63,7 @@ Explore [Southern California Edison Company][scec]{:target="_blank"}'s commitmen
 
 Join the mission of driving a resilient and equitable energy transition with [Gridworks](https://gridworks.org/){:target="_blank"}, a catalyst for positive change in the grid and energy sector.
 
-[<img src="{{ site.baseurl }}assets/images/nationalgrid.png" alt= "national grid" style="max-width: 380px;">][national grid]{:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/nationalgrid.png" alt= "national grid" style="max-width: 390px;">][national grid]{:target="_blank"}
 
 Uncover the energy solutions of tomorrow with [National Grid](https://www.nationalgridus.com/){:target="_blank"}, a leading provider of clean and reliable electricity, shaping the future of sustainable power.
 
@@ -83,7 +83,7 @@ Uncover the energy solutions of tomorrow with [National Grid](https://www.nation
 [California Energy Commission]: https://www.energy.ca.gov/
 [California Natural Resources Agency]: https://resources.ca.gov/
 
-[hipas]: https://drive.google.com/file/d/13uk-BRT2FVdv5OuEbbtdAIB1tuZdgt1i/view
+[hipas]: https://github.com/slacgismo/hipas-gridlabd/blob/main/Task%201.1%20-%20Final%20Report.pdf
 [pge]: https://www.pge.com/
 [sdge]: https://www.sdge.com/
 [scec]: https://www.sce.com/
