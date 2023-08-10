@@ -69,6 +69,8 @@ current: about
 ```
 
 ## Run on GitHub
+<img width="1428" alt="GitHub Pages" src="https://github.com/arras-energy/static-website/assets/128001866/088211f7-1bed-4bc5-9805-c031a08de475">
+
 You can run Arras Energy with GitHub Actions using the template https://github.com/gridlabd-tutorials/.new_project. The simulation results are stored in a downloadable file that can accessed from the ```Actions``` tab in your GitHub project. A tutorial for using Arras Energy with GitHub is available at https://github.com/gridlabd-tutorials.
 
 ## Run on Docker
