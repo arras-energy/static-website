@@ -78,7 +78,7 @@ Uncover the energy solutions of tomorrow with [National Grid](https://www.nation
 
 [slac]: https://www6.slac.stanford.edu/
 [stanford]:   https://stanford.edu
-[Linux Foundation]: https://www.linuxfoundation.org/ 
+[Linux Foundation]: https://lfenergy.org/
 [HiPAS GridLAB-D]: https://github.com/arras-energy  
 [California Energy Commission]: https://www.energy.ca.gov/
 [California Natural Resources Agency]: https://resources.ca.gov/
