@@ -1,23 +1,19 @@
 # Arras Energy - Public Website
 This is the public website for commerical release of Arras Energy, formerly known as HiPAS GridLab-D.
 
-**Home page**
-![home page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen1.png)
 
-**Post page**
-![post page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen2.png)
+Arras Energy is a robust open-source simulation platform designed to address the evolving challenges of electricity distribution power systems in the context of smart grids and renewable energy integration. This platform serves as a valuable tool for utilities, researchers, and technology vendors, enabling them to develop, refine, and deploy advanced solutions in the domain of smart-grid technologies and renewable energy integration.
 
-**Author page**
-![author page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen3.png)
+________
 
-**Related posts page**
-![tag page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen4.png)
+**Home Page**
+<img width="1432" alt="Home Page" src="https://github.com/arras-energy/static-website/assets/128001866/b40d2a20-5089-4731-b540-3d0726cb59d9">
 
-**Tags page with opened sidebar**
-![sidebar page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen5.png)
+**Content Page**
+<img width="1429" alt="Content Page" src="https://github.com/arras-energy/static-website/assets/128001866/20141b34-05ae-422d-9f4a-bdf2348635a0">
 
-**404 page**
-![related page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen6.png)
+**Menu Bar**
+<img width="1427" alt="Menu Bar" src="https://github.com/arras-energy/static-website/assets/128001866/9fd84fe4-1a92-4340-ae67-267714adff1a">
 
 ## Getting Started
 
@@ -26,7 +22,8 @@ Whether you are a user or a developer, Arras Energy offers comprehensive resourc
 - **[Use-Cases](https://arras-energy.github.io/static-website/use-cases/)**: Explore the success stories of Arras Energy's implementation in real-world scenarios. Dive into use-cases spanning diverse areas such as solar and batteries (ICA), resilience in the face of wildfires and storms, innovative tariff and billing structures, and the realization of a greener planet through electrification.
 - **[Reports](https://arras-energy.github.io/static-website/literature/)**: Delve into in-depth literature and stay updated with news articles related to the advancements and applications of Arras Energy in the field of electricity distribution power systems.
 
-## How to use it
+## How To Maintain Website Content
+Feel free to edit and add content to this website.
 
 ### Deployment
 
@@ -126,7 +123,7 @@ cd gridlabd
 
 ## Issues and contributing
 
-This website refers to all installations and tutorials on Arras Energy's offical GitHub page. If you run into any problems please refer to [Arras Energy GitHub]([https://github.com/jekyllt/jasper/issues](https://github.com/arras-energy) for more information.
+This website refers to all installations and tutorials on Arras Energy's offical GitHub page. If you run into any problems please refer to [Arras Energy GitHub](https://github.com/arras-energy) for more information.
 Feel free pull-request your patches and fixes.
 
 ## Learn More
