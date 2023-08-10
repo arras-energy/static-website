@@ -4,12 +4,15 @@ This is the public website for commerical release of Arras Energy, formerly know
 
 Arras Energy is a robust open-source simulation platform designed to address the evolving challenges of electricity distribution power systems in the context of smart grids and renewable energy integration. This platform serves as a valuable tool for utilities, researchers, and technology vendors, enabling them to develop, refine, and deploy advanced solutions in the domain of smart-grid technologies and renewable energy integration.
 
+Feel free to add and edit content on this website.
+
 ________
 
 **Home Page**
 <img width="1432" alt="Home Page" src="https://github.com/arras-energy/static-website/assets/128001866/b40d2a20-5089-4731-b540-3d0726cb59d9">
 
 **Content Page**
+
 <img width="1429" alt="Content Page" src="https://github.com/arras-energy/static-website/assets/128001866/20141b34-05ae-422d-9f4a-bdf2348635a0">
 
 **Menu Bar**
@@ -23,7 +26,6 @@ Whether you are a user or a developer, Arras Energy offers comprehensive resourc
 - **[Reports](https://arras-energy.github.io/static-website/literature/)**: Delve into in-depth literature and stay updated with news articles related to the advancements and applications of Arras Energy in the field of electricity distribution power systems.
 
 ## How To Maintain Website Content
-Feel free to edit and add content to this website.
 
 ### Deployment
 
