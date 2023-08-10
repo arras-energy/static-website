@@ -27,18 +27,18 @@ Explore cutting-edge research and advancements in energy science and technology 
 
 Learn about California's commitment to renewable energy and how the [California Energy Commission][California Energy Commission]{:target="_blank"} drives sustainable energy policies and initiatives.
 
-[<img src="{{ site.baseurl }}assets/images/CNRA.png" alt="cnra" style="max-width: 400px;">](https://resources.ca.gov/){:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/CNRA.png" alt="cnra" style="max-width: 390px;">](https://resources.ca.gov/){:target="_blank"}
 
 Uncover the vital role [California Natural Resources Agency][California Natural Resources Agency]{:target="_blank"} plays in preserving and managing diverse natural resources.
 
-[<img src="{{ site.baseurl }}assets/images/amazon.webp" alt="Amazon Web Services" style="max-width: 350px;">][Amazon]{:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/amazon.webp" alt="Amazon Web Services" style="max-width: 340px;">][Amazon]{:target="_blank"}
 
 Experience the power of cloud computing and advanced technologies with [Amazon Web Services](https://aws.amazon.com/), empowering businesses to drive innovation and efficiency.
-[<img src="{{ site.baseurl }}assets/images/pnnl.png" alt="PNNL" style="max-width: 400px;">][pnnl]{:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/pnnl.png" alt="PNNL" style="max-width: 390px;">][pnnl]{:target="_blank"}
 
 Delve into groundbreaking research and innovations in energy at [Pacific Northwest National Laboratory](https://www.pnnl.gov/), where scientific discoveries are shaping a sustainable future.
 
-[<img src="{{ site.baseurl }}assets/images/hitachi.png" alt="hitachi" style="max-width: 380px;">][hitachi]{:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/hitachi.png" alt="hitachi" style="max-width: 360px;">][hitachi]{:target="_blank"}
 
 Read into Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html), where innovation meets environmental stewardship.
 
@@ -59,7 +59,7 @@ Learn about [San Diego Gas & Electric][sdge]{:target="_blank"}'s innovative init
 
 Explore [Southern California Edison Company][scec]{:target="_blank"}'s commitment to advancing renewable energy and grid modernization.
 
-[<img src="{{ site.baseurl }}assets/images/gridworks.jpeg" alt="gridworks" style="max-width: 360px;">][gridworks]{:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/gridworks.jpeg" alt="gridworks" style="max-width: 350px;">][gridworks]{:target="_blank"}
 
 Join the mission of driving a resilient and equitable energy transition with [Gridworks](https://gridworks.org/){:target="_blank"}, a catalyst for positive change in the grid and energy sector.
 
