@@ -1,9 +1,9 @@
 # Arras Energy - Public Website
-This is the public website for commerical release of Arras Energy, formerly known as HiPAS GridLab-D.
+This is the public website for commerical release of Arras Energy, formerly known as HiPAS GridLab-D. 
 
-Arras Energy is a robust open-source simulation platform designed to address the evolving challenges of electricity distribution power systems in the context of smart grids and renewable energy integration.
+Arras Energy is a robust open-source simulation platform designed to address the evolving challenges of electricity distribution power systems in the context of smart grids and renewable energy integration. This platform serves as a valuable tool for utilities, researchers, and technology vendors, enabling them to develop, refine, and deploy advanced solutions in the domain of smart-grid technologies and renewable energy integration. 
 
-This platform serves as a valuable tool for utilities, researchers, and technology vendors, enabling them to develop, refine, and deploy advanced solutions in the domain of smart-grid technologies and renewable energy integration. Feel free to add and edit content to this website.
+Feel free to add and edit content to this website!
 ________
 
 **Home Page**
