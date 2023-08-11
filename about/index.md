@@ -16,7 +16,7 @@ Arras Energy, previously known as [HiPAS GridLab-D](https://www.energizeinnovati
 
 GridLAB-D was originally developed for the US Department of Energy by a team of researchers at Pacific Northwest National Laboratory to address emerging electric power system engineering challenges associated with grid modernization and climate change response, mitigation, and adaptation. 
 
-<img src="{{ site.baseurl }}assets/images/2workers.jpg" alt="linux" style="max-width: 520px;">
+<img src="{{ site.baseurl }}assets/images/2workers.jpg" alt="linux" style="max-width: 500px;">
 
 The first release of GridLAB-D was in 2008. Since then it has been used by the US Department of Energy for key electric power system studies, including conservation voltage reduction, dynamic pricing, peer-to-peer energy exchange, and fault-induced delayed voltage recovery.
 
