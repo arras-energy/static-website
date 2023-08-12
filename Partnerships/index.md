@@ -11,7 +11,7 @@ current: about
 
 To achieve our goals of making Arras Energy an open resource to all students, researchers, and developers, our team has ensured to collaborate with the best.
 
-[<img src="{{ site.baseurl }}assets/images/lfenergy.jpeg" alt="linux" style="max-width: 450px;">](https://lfenergy.org/){:target="_blank"}
+[<img src="{{ site.baseurl }}assets/images/lfenergy.png" alt="linux" style="max-width: 450px;">](https://lfenergy.org/){:target="_blank"}
 
 Dive into the world of open-source energy software and learn how the [Linux Foundation][Linux Foundation]{:target="_blank"} drives energy industry advancements by supporting innovative projects like [HiPAS GridLAB-D][HiPAS GridLAB-D]{:target="_blank"}.
 
