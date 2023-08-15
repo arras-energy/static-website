@@ -50,8 +50,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://www.arras.energy/
+source_url:  https://www.arras.energy/
 
 exclude:
   - README.md
