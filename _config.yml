@@ -10,7 +10,7 @@ language: 'en-uk'
 name: 'Welcome to Arras Energy!'
 description: "A simulation platform for future electricity distribution power systems."
 
-short_url: 'jekyllt.github.io/jasper/'
+short_url: https://www.arras.energy/
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -50,8 +50,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://www.arras.energy/
+source_url:  https://www.arras.energy/
 
 exclude:
   - README.md
