@@ -51,7 +51,7 @@ branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
 production_url:  https://www.arras.energy/
-source_url:  https://www.arras.energy/
+source_url:  https://github.com/jekyllt/jasper/
 
 exclude:
   - README.md
