@@ -33,17 +33,17 @@ Uncover the vital role [California Natural Resources Agency][California Natural 
 
 [<img src="/assets/images/amazon.webp" alt="Amazon Web Services" style="max-width: 340px;">][Amazon]{:target="_blank"}
 
-Experience the power of cloud computing and advanced technologies with [Amazon Web Services](https://aws.amazon.com/), empowering businesses to drive innovation and efficiency. (TSC) - Pedram Jahangiri
+Experience the power of cloud computing and advanced technologies with [Amazon Web Services](https://aws.amazon.com/){:target="_blank"}, empowering businesses to drive innovation and efficiency. (TSC) - Pedram Jahangiri
 [<img src="/assets/images/pnnl.png" alt="PNNL" style="max-width: 390px;">][pnnl]{:target="_blank"} 
 
-Delve into groundbreaking research and innovations in energy at [Pacific Northwest National Laboratory](https://www.pnnl.gov/), where scientific discoveries are shaping a sustainable future. (TSC) - Frank Tuffner
+Delve into groundbreaking research and innovations in energy at [Pacific Northwest National Laboratory](https://www.pnnl.gov/){:target="_blank"}, where scientific discoveries are shaping a sustainable future. (TSC) - Frank Tuffner
 
 [<img src="/assets/images/hitachi.png" alt="hitachi" style="max-width: 360px;">][hitachi]{:target="_blank"}
 
-Read about Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html), where innovation meets environmental stewardship. (TSC) - Joseph Chongfuangprinya
+Read about Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html){:target="_blank"}, where innovation meets environmental stewardship. (TSC) - Joseph Chongfuangprinya
 
 [<img src="/assets/images/nreca.jpeg" alt="nreca" style="max-width: 360px;">][nreca]{:target="_blank"}
-Learn about America's electric cooperatives, their trade association [NRECA](https://www.electric.coop/), and how the cooperative business model creates community-focused organizations. (TSC) - David Pinney
+Learn about America's electric cooperatives, their trade association [NRECA](https://www.electric.coop/){:target="_blank"}, and how the cooperative business model creates community-focused organizations. (TSC) - David Pinney
 
 ____
 
@@ -72,13 +72,15 @@ Uncover the energy solutions of tomorrow with [National Grid](https://www.nation
 
 ____
 
-## Technical Support Committee
+# Technical Support Committee
 - David Chassin (SLAC)
 - Frank Tuffner (PNNL)
 - Pedram Jahangiri (Amazon)
 - Anthony James (SCE)
 - Allen Le (CEC)
 - Joseph Chongfuangprinya (Hitachi)
+
+## Emeritus Members
 - David Pinney (NRECA)
 - Qing Tian (CEC)
 
