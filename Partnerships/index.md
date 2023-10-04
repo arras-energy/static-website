@@ -67,7 +67,19 @@ Join the mission of driving a resilient and equitable energy transition with [Gr
 
 Uncover the energy solutions of tomorrow with [National Grid](https://www.nationalgridus.com/){:target="_blank"}, a leading provider of clean and reliable electricity, shaping the future of sustainable power.
 
+____
 
+# Technical Support Committee
+- David Chassin (SLAC)
+- Frank Tuffner (PNNL)
+- Pedram Jahangiri (Amazon)
+- Anthony James (SCE)
+- Allen Le (CEC)
+- Joseph Chongfuangprinya (Hitachi)
+
+## Emeritus Members
+- David Pinney (NRECA)
+- Qing Tian (CEC)
 
 [PNNL]: https://www.pnnl.gov/
 [Hitachi]: https://www.hitachi.com/sustainability/index.html
