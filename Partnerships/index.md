@@ -21,11 +21,11 @@ Discover groundbreaking energy research and initiatives led by [Stanford][Stanfo
 
 [<img src="/assets/images/slac.png" alt="slac" style="max-width: 420px;">](https://www6.slac.stanford.edu/){:target="_blank"}
 
-Explore cutting-edge research and advancements in energy science and technology at [SLAC][SLAC]{:target="_blank"}, a world-renowned research facility.
+Explore cutting-edge research and advancements in energy science and technology at [SLAC][SLAC]{:target="_blank"}, a world-renowned research facility. (TSC) - David Chassin
 
 [<img src="/assets/images/cali.jpeg" alt="cali" style="max-width: 400px;">](https://www.energy.ca.gov/){:target="_blank"}
 
-Learn about California's commitment to renewable energy and how the [California Energy Commission][California Energy Commission]{:target="_blank"} drives sustainable energy policies and initiatives.
+Learn about California's commitment to renewable energy and how the [California Energy Commission][California Energy Commission]{:target="_blank"} drives sustainable energy policies and initiatives. (TSC) - Allen Le, Qing Tian
 
 [<img src="/assets/images/CNRA.png" alt="cnra" style="max-width: 390px;">](https://resources.ca.gov/){:target="_blank"}
 
@@ -33,14 +33,17 @@ Uncover the vital role [California Natural Resources Agency][California Natural 
 
 [<img src="/assets/images/amazon.webp" alt="Amazon Web Services" style="max-width: 340px;">][Amazon]{:target="_blank"}
 
-Experience the power of cloud computing and advanced technologies with [Amazon Web Services](https://aws.amazon.com/), empowering businesses to drive innovation and efficiency.
-[<img src="/assets/images/pnnl.png" alt="PNNL" style="max-width: 390px;">][pnnl]{:target="_blank"}
+Experience the power of cloud computing and advanced technologies with [Amazon Web Services](https://aws.amazon.com/), empowering businesses to drive innovation and efficiency. (TSC) - Pedram Jahangiri
+[<img src="/assets/images/pnnl.png" alt="PNNL" style="max-width: 390px;">][pnnl]{:target="_blank"} 
 
-Delve into groundbreaking research and innovations in energy at [Pacific Northwest National Laboratory](https://www.pnnl.gov/), where scientific discoveries are shaping a sustainable future.
+Delve into groundbreaking research and innovations in energy at [Pacific Northwest National Laboratory](https://www.pnnl.gov/), where scientific discoveries are shaping a sustainable future. (TSC) - Frank Tuffner
 
 [<img src="/assets/images/hitachi.png" alt="hitachi" style="max-width: 360px;">][hitachi]{:target="_blank"}
 
-Read about Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html), where innovation meets environmental stewardship.
+Read about Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html), where innovation meets environmental stewardship. (TSC) - Joseph Chongfuangprinya
+
+[<img src="/assets/images/nreca.jpeg" alt="nreca" style="max-width: 360px;">][nreca]{:target="_blank"}
+Learn about America's electric cooperatives, their trade association [NRECA](https://www.electric.coop/), and how the cooperative business model creates community-focused organizations. (TSC) - David Pinney
 
 ____
 
@@ -57,7 +60,7 @@ Learn about [San Diego Gas & Electric][sdge]{:target="_blank"}'s innovative init
 
 [<img src="/assets/images/sce.png" alt="Southern California Edison Company" style="max-width: 360px;">][scec]{:target="_blank"}
 
-Explore [Southern California Edison Company][scec]{:target="_blank"}'s commitment to advancing renewable energy and grid modernization.
+Explore [Southern California Edison Company][scec]{:target="_blank"}'s commitment to advancing renewable energy and grid modernization. (TSC) - Anthony James
 
 [<img src="/assets/images/gridworks.jpeg" alt="gridworks" style="max-width: 350px;">][gridworks]{:target="_blank"}
 
@@ -69,15 +72,13 @@ Uncover the energy solutions of tomorrow with [National Grid](https://www.nation
 
 ____
 
-# Technical Support Committee
+## Technical Support Committee
 - David Chassin (SLAC)
 - Frank Tuffner (PNNL)
 - Pedram Jahangiri (Amazon)
 - Anthony James (SCE)
 - Allen Le (CEC)
 - Joseph Chongfuangprinya (Hitachi)
-
-## Emeritus Members
 - David Pinney (NRECA)
 - Qing Tian (CEC)
 
@@ -99,3 +100,4 @@ ____
 [pge]: https://www.pge.com/
 [sdge]: https://www.sdge.com/
 [scec]: https://www.sce.com/
+[nreca]: https://www.electric.coop/
