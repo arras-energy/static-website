@@ -42,9 +42,6 @@ Delve into groundbreaking research and innovations in energy at [Pacific Northwe
 
 Read about Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html){:target="_blank"}, where innovation meets environmental stewardship. (TSC) - Joseph Chongfuangprinya
 
-[![nreca](/assets/images/nreca.jpeg)](https://www.electric.coop/){:target="_blank"}
-Learn about America's electric cooperatives, their trade association [NRECA](https://www.electric.coop/){:target="_blank"}, and how the cooperative business model creates community-focused organizations. (TSC) - David Pinney
-
 ____
 
 # Utility Companies
