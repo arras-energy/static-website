@@ -69,7 +69,7 @@ Uncover the energy solutions of tomorrow with [National Grid](https://www.nation
 
 ____
 
-# Technical Support Committee
+# Technical Steering Committee
 - David Chassin (SLAC)
 - Frank Tuffner (PNNL)
 - Pedram Jahangiri (Amazon)
@@ -80,6 +80,9 @@ ____
 ## Emeritus Members
 - David Pinney (NRECA)
 - Qing Tian (CEC)
+
+
+Please click here to participate in our project and become a part of Arras Energy's [Technical Steering Commitee](https://github.com/arras-energy/tsc){:target="_blank"}!
 
 [PNNL]: https://www.pnnl.gov/
 [Hitachi]: https://www.hitachi.com/sustainability/index.html
