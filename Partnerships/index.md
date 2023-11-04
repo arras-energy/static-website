@@ -69,17 +69,24 @@ Uncover the energy solutions of tomorrow with [National Grid](https://www.nation
 
 ____
 
-# Technical Support Committee
-- David Chassin (SLAC)
-- Frank Tuffner (PNNL)
-- Pedram Jahangiri (Amazon)
-- Anthony James (SCE)
-- Allen Le (CEC)
-- Joseph Chongfuangprinya (Hitachi)
+## Technical Steering Committee 
+- [David Chassin](https://www.linkedin.com/in/david-chassin/){:target="_blank"} - Manager of Grid Integration Systems and Mobility at SLAC National Accelerator Laboratory (SLAC)
+
+- [Frank Tuffner](https://www.linkedin.com/in/frank-tuffner-048a04236/){:target="_blank"} - Staff Research Engineer at Pacific Northwest National Laboratory (PNNL)
+
+- [Pedram Jahangiri](https://www.linkedin.com/in/pedram-jahangiri/){:target="_blank"} - Solution Architect Leader at Amazon Web Services (AWS) 
+
+- [Anthony James](https://www.linkedin.com/in/anthony-james-023a276/){:target="_blank"} - Senior Engineer and Data Scientist with Applied RD&D, Asset Strategy and Planning at Southern California Edison (SCE)
+
+- [Allen Le](https://www.linkedin.com/in/alan-le/){:target="_blank"} - Mechanical engineer at California Energy Commission (CEC)
+
+- <u>Joseph Chongfuangprinya</u> - Principal researcher at Hitachi America, Energy Solutions Lab, R&D. (Hitachi)
 
 ## Emeritus Members
-- David Pinney (NRECA)
-- Qing Tian (CEC)
+- [David Pinney](https://www.linkedin.com/in/davidwpinney/){:target="_blank"} -
+Engineering Manager and Energy Analysis at National Rural Electric Cooperative Association (NRECA)
+
+- [Qing Tian](https://www.linkedin.com/in/qing-tian-ph-d-p-e-6b6aa211/){:target="_blank"} - Engineer and research program manager at California Energy Commission (CEC)
 
 [PNNL]: https://www.pnnl.gov/
 [Hitachi]: https://www.hitachi.com/sustainability/index.html
