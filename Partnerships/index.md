@@ -40,7 +40,7 @@ Delve into groundbreaking research and innovations in energy at [Pacific Northwe
 
 [<img src="/assets/images/hitachi.png" alt="hitachi" style="max-width: 360px;">][hitachi]{:target="_blank"}
 
-Read about Hitachi's commitment to sustainability and cutting-edge technologies for a greener world at [Hitachi](https://www.hitachi.com/sustainability/index.html){:target="_blank"}, where innovation meets environmental stewardship. (TSC) - Joseph Chongfuangprinya
+Read about Hitach U.S.A. R&D's application to a customer-driven approach in developing innovative solutions to lead [Hitachi](https://www.hitachi.com/sustainability/index.html){:target="_blank"}'s Social Innovation Business in the U.S.A.s. As a part of the Hitachi Global Center for Social Innovation (CSI). R&D works together with customers to address known and hidden issues, leveraging and integrating Hitachi's broad technology portfolio as well as its experience in operations to provide the optimal solution for our customer-base in the US. (TSC) - Joseph Chongfuangprinya
 
 ____
 
