@@ -40,7 +40,7 @@ Delve into groundbreaking research and innovations in energy at [Pacific Northwe
 
 [<img src="/assets/images/hitachi.png" alt="hitachi" style="max-width: 360px;">][hitachi]{:target="_blank"}
 
-Read about Hitachi [USA R&D](https://www.hitachi.us/rd/HERO-GLOW-EPIC-Forum.html){:target="_blank"}'s customer-centric approach to driving innovation for [Hitachi](https://www.hitachi.com/sustainability/index.html){:target="_blank"}'s Social Innovation Business in the USA as part of the Hitachi Global Center for Social Innovation (CSI). Collaborating closely with customers, R&D identifies and tackles both evident and latent challenges, utilizing Hitachi's diverse technology portfolio and operational expertise to deliver tailored solutions for our US clientele. (TSC) - Joseph Chongfuangprinya
+Read about Hitachi [USA R&D](https://www.hitachi.us/rd/HERO-GLOW-EPIC-Forum.html){:target="_blank"}'s market-driven approach for [Hitachi](https://www.hitachi.com/sustainability/index.html){:target="_blank"}'s Social Innovation Business as part of the Hitachi Global Center for Social Innovation (CSI). Collaborating closely with customers, R&D identifies and tackles both evident and latent challenges, utilizing Hitachi's diverse technology portfolio and operational expertise to deliver tailored solutions. (TSC) - Joseph Chongfuangprinya
 
 ____
 
