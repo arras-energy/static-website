@@ -40,8 +40,7 @@ Delve into groundbreaking research and innovations in energy at [Pacific Northwe
 
 [<img src="/assets/images/hitachi.png" alt="hitachi" style="max-width: 360px;">][hitachi]{:target="_blank"}
 
-Read about Hitach U.S.A. R&D's application to a customer-driven approach in developing innovative solutions to lead [Hitachi](https://www.hitachi.com/sustainability/index.html){:target="_blank"}'s Social Innovation Business in the U.S.A.s. As a part of the Hitachi Global Center for Social Innovation (CSI). R&D works together with customers to address known and hidden issues, leveraging and integrating Hitachi's broad technology portfolio as well as its experience in operations to provide the optimal solution for our customer-base in the US. (TSC) - Joseph Chongfuangprinya
-
+Learn about Hitachi USA R&D's customer-centric approach to driving innovation for [Hitachi](https://www.hitachi.com/sustainability/index.html){:target="_blank"}'s Social Innovation Business in the USA as part of the Hitachi Global Center for Social Innovation (CSI). Collaborating closely with customers, R&D identifies and tackles both evident and latent challenges, utilizing Hitachi's diverse technology portfolio and operational expertise to deliver tailored solutions for our US clientele. (TSC) - Joseph Chongfuangprinya
 ____
 
 # Utility Companies
