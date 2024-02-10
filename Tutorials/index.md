@@ -12,6 +12,11 @@ current: about
 
  Whether you're a beginner ready to learn the basics or an experienced developer seeking advanced implentation into your utilities, our collection of video and slide presentations has got you covered! Our expertly curated content is designed to guide you through each topic step-by-step, ensuring easy usage of Arras Energy.
 
+ ## Research Resource
+- [Docs Browser](https://docs.gridlabd.us/){:target="_blank"} - User Documentation
+- [SLAC GISMo Youtube](https://www.youtube.com/@slacgismotutorials ){:target="_blank"} - Video Tutorials
+- [GitHub](https://github.com/arras-energy){:target="_blank"} - Code Managment and Access
+
 ## User Guide
 - [Quick Start 1](http://tutorials.gridlabd.us/){:target="_blank"} - GridLAB-D Quickstart
 - [Sample Models 2](http://tutorials.gridlabd.us/user/samplemodels.mp4){:target="_blank"} - Accessing Sample Models
