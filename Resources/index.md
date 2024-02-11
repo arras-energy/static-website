@@ -10,15 +10,15 @@ current: about
 # Are You A User or Developer?
 Our video tutorials and presentations serve as powerful learning tools for both beginning users and experienced developers alike.
 
-## Choosing Your Learning Path
-**User Guide:** For beginners, our video tutorials provide a visual and interactive way to learn how to use the software through step-by-step instructions.
-
-**Developer Guide:** For experienced developers, we offer both video tutorials and in-depth lecture slides enabling the implentation of advanced techniques and allow you to stay updated with the latest industry practices.
-
 ## Quick Links
 - [GitHub](https://github.com/arras-energy){:target="_blank"} - Code Managment and Access
 - [Research Browser](https://docs.gridlabd.us/){:target="_blank"} - User Documentation
 - [SLAC GISMo Youtube](https://www.youtube.com/@slacgismotutorials ){:target="_blank"} - Video Tutorials
+
+## Choosing Your Learning Path
+**User Guide:** For beginners, our video tutorials provide a visual and interactive way to learn how to use the software through step-by-step instructions.
+
+**Developer Guide:** For experienced developers, we offer both video tutorials and in-depth lecture slides enabling the implentation of advanced techniques and allow you to stay updated with the latest industry practices.
 
 ## All Content In This Section:
 1. [Tutorials][Tutorials]
